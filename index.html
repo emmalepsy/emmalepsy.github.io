@@ -23,19 +23,25 @@
 <style>
 @import url(http://fonts.googleapis.com/css?family=Lato);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
-html {
-   min-width: 1040px;
-}
 body {
    background: #e1f3fa;
    color: #333;
    font-family: "Lato", serif;
    position: relative;
-   width: 960px;
    display: block;
    margin-left: auto;
    margin-right: auto;
 }
+
+@media (min-width: 600px) {
+  html {
+    min-width: 1040px;
+  }
+  body { 
+    width: 960px;
+  }
+}
+
 h1, h2, h3, h4 { font-family: "Lato", serif; color: #000; text-rendering: optimizeLegibility; }
 h1 {
   font-size: 44px;
