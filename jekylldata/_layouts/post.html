@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<head>
+<title>Stories by Emma | Content Marketing and Freelance Writing </title>
+<meta name="description" content="Stories by Emma offers freelance writing and content marketing services to help brands reach their audience.">
+<meta charset="utf-8">
+</head>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.4.1/octicons.min.css">
+<style>
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+html {
+   min-width: 1040px;
+}
+body {
+   background: #e1f3fa;
+   color: #333;
+   font-family: "Lato", serif;
+   /*margin: 0 1em 4em auto;*/
+   position: relative;
+    width: 960px;
+    left: 7em;
+}
+h1, h2, h3, h4 { font-family: "Lato", serif; color: #000; text-rendering: optimizeLegibility; }
+h1 {
+  font-size: 44px;
+  color: #163842;
+  line-height: 1.2em;
+  letter-spacing: -0.025em;
+  font-weight: 900;
+  margin-top: 0.67em;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+h2 {
+   font-size: 28px;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #307489;
+}
+
+h3 {
+   font-size: 22px;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #db5b4a;
+}
+
+a {
+  color: #0099c3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+#main_container {
+  background: #ffffff;
+  padding-left: 60px;
+  padding-top: 40px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  line-height: 1.55em;
+  color: #555555;
+}
+
+#main_nav {
+   font-family: "Lato";
+   font-size: 22px;
+   letter-spacing: -0.025em;
+   padding-top: 40px;
+   float: right;
+}
+
+#main_nav ul {
+ list-style: none;
+}
+
+#main_nav li {
+  display: inline;
+}
+
+.btn {
+  color: #163842;
+  padding-right: 10px;
+}
+
+#main_nav a:hover {
+  text-decoration: none;
+}
+
+#contact {
+  border-radius:3px;
+  color: #ffffff;
+  background: #db5b4a;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#logo {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.holler {
+ padding-left: 1em;
+ padding-right: 1em;
+}
+
+.small {
+ font-size: 16px;
+ letter-spacing: 0;
+ line-height: 1.375em;
+ color: #aaaaaa;
+}
+
+.center {
+  text-align: center;
+}
+
+.grayscale {
+ filter: grayscale(100%);
+ -webkit-filter: grayscale(100%);
+}
+
+.image-cropper {
+width: 200px;
+height: 200px;
+position: relative;
+overflow: hidden;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+-ms-border-radius: 50%;
+-o-border-radius: 50%;
+border-radius: 50%;
+}
+
+.circleimg {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+</style>
+<body>
+<div id="header">
+  <img id="logo" src="../small-logo-blue.png" width="200px">
+  <div id="main_nav">
+    <ul>
+      <li><a class="btn" href="#">Home</a></li>
+      <li><a class="btn" href="#services">Services</a></li>
+      <li><a class="btn" href="#samples">Portfolio</a></li>
+      <li><a class="btn" href="blog.html">Blog</a></li>
+      <li><a class="btn" id="contact" href="#contacts">Get in Touch</a></li>
+    </ul>
+  </div>
+</div>
+<div id="main_container">
+  <h1> {{ page.title }} </h1>
+  <h3> {{ page.date | date: '%B %d, %Y' }} </h3>
+  {{ content }}
+
+  <h2><a href="{{page.next.url}}">Next</a></h2>
+  <h2><a href="{{page.previous.url}}">Previous</a></h2>
+
+</div>
+</body>
+</html>

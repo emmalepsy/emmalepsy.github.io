@@ -1,0 +1,24 @@
+---
+layout: blogindex
+title: Emma's thoughts
+---
+
+{%assign post = site.posts.first %}
+{%assign content = post.content %}
+
+<h1>Emma's Excellent Blog</h1>
+
+<p>
+Here's a list of my blog posts
+</p>
+
+
+<ul class="iconlist">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}"><h2 style="margin-bottom: 2px">{{ post.title }}</h2></a>
+      <div style="color: #db5b4a; padding-left: 2.4em"> {{post.date | date: '%B %d, %Y' }}</div>
+      <p style="padding-left: 2.4em">{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
