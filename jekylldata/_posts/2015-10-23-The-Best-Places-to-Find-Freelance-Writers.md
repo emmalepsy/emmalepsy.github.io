@@ -1,4 +1,14 @@
-# The Best Places to Find Freelance Writers
+---
+layout: post
+title: The Best Places to Find Freelance Writers
+date: 2015-10-23
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: I know a lot about finding freelance writers. I used to hire them, and now I work as one myself.
+---
 
 Writing sucks. It frustrates me all the time, and I do it professionally.
 
