@@ -16,7 +16,7 @@ My coworkers knew how to build software, manage databases, and design high-conve
 
 But convincing these people to write for the blog was tough. “I’m a crappy writer,” someone said. “I’m way too busy to sit down and write,” said another.
 
-Through trial and error, I convinced a number of coworkers to contribute blog posts. I even sat down with the company founders, who gave me insights that resulted in a [complete guide on how to start a business] (http://grasshopper.com/resources/jump-starting-and-growing-your-business/).
+Through trial and error, I convinced a number of coworkers to contribute blog posts. I even sat down with the company founders, who gave me insights that resulted in a [complete guide on how to start a business](http://grasshopper.com/resources/jump-starting-and-growing-your-business/).
 
 So, how can you get your brilliant coworkers to write for the company blog?
 
@@ -28,7 +28,7 @@ Those on top need to understand that a good blog helps drive website traffic, ge
 
 Start by encouraging those on top to contribute. Leaders lead by example, so if your company founder contributes to the blog, others will be inspired to contribute as well. 
 
-At [Next View Ventures] (http://nextviewventures.com/), venture capitalists Rob Go and David Beisel contribute to the blog on a weekly basis. These guys have insights that are valuable to their startup audience, and it makes a huge difference that they’re willing to share.
+At [Next View Ventures](http://nextviewventures.com/), venture capitalists Rob Go and David Beisel contribute to the blog on a weekly basis. These guys have insights that are valuable to their startup audience, and it makes a huge difference that they’re willing to share.
 
 ## Make it easy for them
 
@@ -60,10 +60,10 @@ Often, I worked with them to come up a topic that would resonate with our reader
 
 Here are some examples of posts we ended up with:
 
-* [How to skip the PR agency and do it yourself] (http://grasshopper.com/blog/how-to-skip-the-pr-agency-and-do-it-yourself/) by Taylor Aldredge, Ambassador of Buzz
-* [The errors of A/B testing: your conclusions can make things worse] (http://grasshopper.com/blog/the-errors-of-ab-testing-your-conclusions-can-make-things-worse/) by Mike Morris, VP of Customer Acquisition and Retention
-* [Quick and easy ways to boost your professional image in an afternoon] (http://grasshopper.com/blog/you-posted-what-quick-easy-ways-to-boost-your-professional-image-in-an-afternoon/) by Laurel Ganem, People Strategy Specialist
-* [Why you need to try social media stuff besides Facebook] (http://grasshopper.com/blog/why-you-need-to-try-social-media-stuff-besides-facebook-and-how-to-do-it/) by Mary Mallard, Social Media and Community Specialist
+* [How to skip the PR agency and do it yourself](http://grasshopper.com/blog/how-to-skip-the-pr-agency-and-do-it-yourself/) by Taylor Aldredge, Ambassador of Buzz
+* [The errors of A/B testing: your conclusions can make things worse](http://grasshopper.com/blog/the-errors-of-ab-testing-your-conclusions-can-make-things-worse/) by Mike Morris, VP of Customer Acquisition and Retention
+* [Quick and easy ways to boost your professional image in an afternoon](http://grasshopper.com/blog/you-posted-what-quick-easy-ways-to-boost-your-professional-image-in-an-afternoon/) by Laurel Ganem, People Strategy Specialist
+* [Why you need to try social media stuff besides Facebook](http://grasshopper.com/blog/why-you-need-to-try-social-media-stuff-besides-facebook-and-how-to-do-it/) by Mary Mallard, Social Media and Community Specialist
 
 All of these posts capitalized on the writer's individual expertise.
 
@@ -91,7 +91,7 @@ Convincing coworrkers to contribute is an ongoing effort. Once a post is done, i
 
 To ensure you're encouraging coworkers to contribute often, try the following tactics:
 
-* __Find a place to dump ideas --__ It could be a blackboard in your office, Google Docs, the company wiki,  or [Trello] (http://trello.com/) (my favorite project management tool). 
+* __Find a place to dump ideas --__ It could be a blackboard in your office, Google Docs, the company wiki,  or [Trello](http://trello.com/) (my favorite project management tool). 
 * __Give them insights into how their post performed --__ Not every post a coworker contributes is going to be a smash hit, but providing them with results will make them feel as though their efforts went somewhere. Let them know how the post fared on social media, and share any comments with them.
 * __Find a way to say thank you__ -- Your coworkers need to know how grateful you are for what they've done. You can write a hand-written thank you note, take them to lunch, or buy them a coffee as a thank you.
 
