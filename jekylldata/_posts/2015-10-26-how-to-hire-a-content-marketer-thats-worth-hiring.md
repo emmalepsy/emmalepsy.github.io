@@ -95,11 +95,11 @@ __Insights from Johnathan Dane, Founder of [KlientBoost](http://klientboost.com/
 
 >Also, keep in mind that a good content marketer is an investment. Don't expect to ROI off that hire immediately. It will take months before you see the snowball effect.”
 
-__Rob Wormley, Head of Content Marketing at [When I Work](http://wheniwork.com), suggests that go beyond the blog post and challenge candidates to come up with content promotion plans:__
->
->There are A TON of writers out there who are calling themselves 'content marketers' now. A good way to weed out unqualified candidates is to give them a small test. Instead of asking them to write a blog post for you, ask them to pitch you a potential blog post idea and content promotion plan that can be executed on once that piece of content has been published. 
->
->You'll figure out really quickly who has the knowledge/skills and who doesn't. Also, you get what you pay for. If you don't want to pay for a good content marketer, then don't be surprised when you don't get good results. 
+__Rob Wormley, Head of Content Marketing at [When I Work](http://wheniwork.com), suggests that you go beyond the blog post and challenge candidates to come up with content promotion plans:__
+
+>"There are A TON of writers out there who are calling themselves 'content marketers' now. A good way to weed out unqualified candidates is to give them a small test. Instead of asking them to write a blog post for you, ask them to pitch you a potential blog post idea and content promotion plan that can be executed on once that piece of content has been published. 
+
+>You'll figure out really quickly who has the knowledge/skills and who doesn't. Also, you get what you pay for. If you don't want to pay for a good content marketer, then don't be surprised when you don't get good results." 
 
 ##In the mean time
 
