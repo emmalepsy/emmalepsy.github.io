@@ -9,6 +9,7 @@ type: post
 published: true
 excerpt: It's great to have your team members contribute to the company blog, but it can take some convincing. In this post, I offer my insights on how you can encourage your team to contribute to the company blog.
 ---
+![How to get coworkers to write for the company blog]({{ site.url }}/assets/companyblog.jpg)
 
 When I worked as a content marketer at a tech company, I wanted my coworkers to write for the company blog. Sure, our freelance writers were great, but I knew our audience would love unique insights from our own team.
 
