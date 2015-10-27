@@ -9,7 +9,7 @@ type: post
 published: true
 excerpt: It's great to have your team members contribute to the company blog, but it can take some convincing. In this post, I offer my insights on how you can encourage your team to contribute to the company blog.
 ---
-![How to get coworkers to write for the company blog]({{ site.url }}/assets/companyblog.jpg)
+![How to get coworkers to write for the company blog]({{ site.url }}/blog/assets/companyblog.jpg)
 
 When I worked as a content marketer at a tech company, I wanted my coworkers to write for the company blog. Sure, our freelance writers were great, but I knew our audience would love unique insights from our own team.
 
@@ -23,11 +23,11 @@ So, how can you get your brilliant coworkers to write for the company blog?
 
 ## Get leadership into it
 
-Is the leadership at your company cool with people writing for the company blog? 
+Is the leadership at your company cool with people writing for the company blog?
 
-Those on top need to understand that a good blog helps drive website traffic, gets new leads, and gives your brand authority. 
+Those on top need to understand that a good blog helps drive website traffic, gets new leads, and gives your brand authority.
 
-Start by encouraging those on top to contribute. Leaders lead by example, so if your company founder contributes to the blog, others will be inspired to contribute as well. 
+Start by encouraging those on top to contribute. Leaders lead by example, so if your company founder contributes to the blog, others will be inspired to contribute as well.
 
 At [Next View Ventures](http://nextviewventures.com/), venture capitalists Rob Go and David Beisel contribute to the blog on a weekly basis. These guys have insights that are valuable to their startup audience, and it makes a huge difference that they’re willing to share.
 
@@ -41,9 +41,9 @@ Some people will want to write a post themselves, while others want you to write
 
 >*I’ve heard you talking about how to get reviews for our new mobile app, and I think your insights would benefit our audience. Would you be willing to contribute a post to the company blog, or help me write one on the topic?*
 
->*You can write the post yourself, or I can ghostwrite the post using your insights, or we can find some other solution that works for you.* 
+>*You can write the post yourself, or I can ghostwrite the post using your insights, or we can find some other solution that works for you.*
 
->*If this sounds good, can we have a quick chat sometime this afternoon?* 
+>*If this sounds good, can we have a quick chat sometime this afternoon?*
 
 You can:
 
@@ -69,9 +69,9 @@ Here are some examples of posts we ended up with:
 All of these posts capitalized on the writer's individual expertise.
 
 ## Bribe them
-It’s not everyone’s dream to contribute to a blog. Some don’t like the public attention. For others, blog writing is simply not on their priority list. 
+It’s not everyone’s dream to contribute to a blog. Some don’t like the public attention. For others, blog writing is simply not on their priority list.
 
-Because of this, you might want to add a ‘lil sumpin sumpin’ as a reward for contributing. 
+Because of this, you might want to add a ‘lil sumpin sumpin’ as a reward for contributing.
 
 * __Create a wall-of-fame --__ Many offices have defined spaces to showcase employee work. Can you incorporate a "Blog-of-Fame" to give credit to the coworkers who've contributed?
 * __Give out gift cards --__ Who doesn't love a gift card to Amazon or Starbucks? Work with the HR department to see if there's room in the budget for rewards.
@@ -81,19 +81,19 @@ Because of this, you might want to add a ‘lil sumpin sumpin’ as a reward for
 
 My coworkers often impressed me with the stuff they were working on, but sometimes I was only privy to their efforts once there projects were complete.
 
-Instead of seeing these efforts in a company meeting and returning to your desk, ask your coworkers if they'd be willing to share the project on the company blog. Explain to them why it would be beneficial to share the information-- not only can it help build their personal brand, but it can also lead to more leads and sales for the company. 
+Instead of seeing these efforts in a company meeting and returning to your desk, ask your coworkers if they'd be willing to share the project on the company blog. Explain to them why it would be beneficial to share the information-- not only can it help build their personal brand, but it can also lead to more leads and sales for the company.
 
 Let them know that you can write about the project, and that you'll just need to tap them for insights. If they want to write the post themselves, explain that this would be even better, and you'd love to have them.
 
 
 ## Ongoing efforts
 
-Convincing coworrkers to contribute is an ongoing effort. Once a post is done, it's time to find a new opportunity. 
+Convincing coworrkers to contribute is an ongoing effort. Once a post is done, it's time to find a new opportunity.
 
 To ensure you're encouraging coworkers to contribute often, try the following tactics:
 
-* __Find a place to dump ideas --__ It could be a blackboard in your office, Google Docs, the company wiki,  or [Trello](http://trello.com/) (my favorite project management tool). 
+* __Find a place to dump ideas --__ It could be a blackboard in your office, Google Docs, the company wiki,  or [Trello](http://trello.com/) (my favorite project management tool).
 * __Give them insights into how their post performed --__ Not every post a coworker contributes is going to be a smash hit, but providing them with results will make them feel as though their efforts went somewhere. Let them know how the post fared on social media, and share any comments with them.
 * __Find a way to say thank you__ -- Your coworkers need to know how grateful you are for what they've done. You can write a hand-written thank you note, take them to lunch, or buy them a coffee as a thank you.
 
-*Have you gotten coworkers to contribute to the company blog? How?* 
+*Have you gotten coworkers to contribute to the company blog? How?*
