@@ -7,7 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
-redirect_to: "/blog/how-to-hire-a-content-marketer-thats-worth-hiring.html"
+redirect_from: "/blog/how-to-hire-a-content-marketer-thats-worth-hiring.html"
 excerpt: It's tough to find a talented and experienced content marketer. How do you find an in-house content marketer that meets your needs?
 ---
 
