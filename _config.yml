@@ -1,3 +1,5 @@
 encoding: UTF-8
 permalink: none
 url: http://storiesbyemma.co
+gems:
+  - jekyll-redirect-from
