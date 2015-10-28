@@ -5,6 +5,7 @@ date: 2015-10-23
 categories: []
 tags: []
 status: publish
+redirect_from: "/blog/The-Best-Places-to-Find-Freelance-Writers.html"
 type: post
 published: true
 excerpt: I know a lot about finding freelance writers. I used to hire them, and now I work as one myself.
@@ -16,7 +17,7 @@ Writing articles, web copy, and marketing emails is hard. Even if you're a decen
 
 You want help, but you can't seem to find a freelance writer who's any good.
 
-As someone who works as a freelance writer and marketing consultant, and used to hire them, I *know* you can find someone that meets your needs. 
+As someone who works as a freelance writer and marketing consultant, and used to hire them, I *know* you can find someone that meets your needs.
 
 You just need to look in the right places.
 
@@ -34,7 +35,7 @@ What blogs do you read every day? What voices inspire you?
 
 Some blogs are staffed exclusively with in-house writers, but most blog managers rely on freelancers. Why not contact the writers who are penning your favorite blog articles?
 
-For example, I used to write a lot of articles for [Crazy Egg's blog](http://blog.crazyegg.com/2013/04/16/cool-copy-for-unsexy-stuff/). When people saw my by-line on an article, they contacted me for freelancing opportunities. I knew they cared about high quality writing and liked my voice, and they knew they were getting an expert. 
+For example, I used to write a lot of articles for [Crazy Egg's blog](http://blog.crazyegg.com/2013/04/16/cool-copy-for-unsexy-stuff/). When people saw my by-line on an article, they contacted me for freelancing opportunities. I knew they cared about high quality writing and liked my voice, and they knew they were getting an expert.
 
 ## Blogs from freelancers
 
@@ -71,11 +72,11 @@ I've written for both platforms, and know lots of other great writers who use th
 * __Crappy sites like Upwork and Fiverr (where you pay $5 for someone to do a crappy job).__ There are some decent writers on these platforms, but it could take you seven years to find one who suits your needs.
 * __Lowballing freelancers and trying to get articles for $50.__ Sorry, but you're not going to get a great article when you're not paying market rates. Lowballing freelancers is offensive to professionals who provide a lot of value to our clients.
 * __Having unrealistic expectations about what a freelancer can do.__ Even the best freelancers don't always nail it on the first try, and it's tough for us to read a client's mind. Be patient, and educate us about your needs throughout the process. Try to be realistic and reasonable.
-* __Worrying you're not "good enough."__ Just because a writer works for your favorite blog does not mean they think they're too good for you. Freelancing is a hustle, and they'll probably be happy to hear from you. 
+* __Worrying you're not "good enough."__ Just because a writer works for your favorite blog does not mean they think they're too good for you. Freelancing is a hustle, and they'll probably be happy to hear from you.
 
 ## How to find a freelancer who's right for you
 
-Once you've found some viable options, you need to make sure the freelancer is right for you. 
+Once you've found some viable options, you need to make sure the freelancer is right for you.
 
 There are really only three things you need to do:
 
