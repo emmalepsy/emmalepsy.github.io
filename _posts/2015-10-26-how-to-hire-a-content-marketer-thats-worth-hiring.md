@@ -7,6 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
+redirect_to: "/blog/how-to-hire-a-content-marketer-thats-worth-hiring.html"
 excerpt: It's tough to find a talented and experienced content marketer. How do you find an in-house content marketer that meets your needs?
 ---
 
@@ -21,7 +22,7 @@ Jay Acunzo says there’s a [content marketing talent crunch](http://www.sorryfo
 I’ve been in the field a few years, and I constantly have people asking me how they can find a content marketer that’s worth hiring. Here’s what I tell them:
 
 ##Be realistic
-I see so many startup founders looking to hire a content marketing unicorn. They want someone who is an amazing writer, a great publicist, and has the ability to parse analytics like a statistician. 
+I see so many startup founders looking to hire a content marketing unicorn. They want someone who is an amazing writer, a great publicist, and has the ability to parse analytics like a statistician.
 
 But these people seem to forget that a good content marketer comes at a premium. Most experienced content marketers:
 
@@ -35,7 +36,7 @@ That’s why you need to be realistic. How much can you afford to pay someone? D
 If you really want that unicorn, you can wait it out. Just recognize that great content marketers are few and far between, and that you may need to make some compromises when making a hire.
 
 ##Look for a greeny
-Every job posting for a content marketer looks the same. Companies want someone with years of experience, but content marketing hasn’t been around that long. 
+Every job posting for a content marketer looks the same. Companies want someone with years of experience, but content marketing hasn’t been around that long.
 
 Why not look for someone green? I call them “greenys.” A greeny:
 
@@ -43,7 +44,7 @@ Why not look for someone green? I call them “greenys.” A greeny:
 * can write a well-constructed sentence, and can express themselves well in writing.
 * is excited, passionate, and willing to learn.
 
-A greeny has the potential to be an incredible content marketer. I was a greeny once, and so was every other talented content marketer I know. 
+A greeny has the potential to be an incredible content marketer. I was a greeny once, and so was every other talented content marketer I know.
 
 When I tell startups to hire a greeny, I don’t mean they should hire someone for 30k per year and hope they gain some marketing skills. Instead, __I encourage them to take a chance on a great writer who has a lot of promise, and who they're ready to nurture. YOU HAVE TO TAKE CARE OF THIS PERSON AND GIVE THEM EVERYTHING YOU CAN TO HELP THEM BE SUCCESSFUL.__
 
@@ -60,23 +61,23 @@ If you work in a very technical field that’s difficult to teach, consider hiri
 ## Narrow down what you want
 What’s the easier skill to learn-- writing or marketing? Some argue that it’s impossible to teach someone to write well, while others argue that many writers will never give a crap about marketing.
 
-I came to content marketing as a writer, so I know that great writers can give a crap about marketing, and I’d argue that you need to hire a good writer with a willingness to learn, rather than a marketer who can’t produce a decent writing sample. 
+I came to content marketing as a writer, so I know that great writers can give a crap about marketing, and I’d argue that you need to hire a good writer with a willingness to learn, rather than a marketer who can’t produce a decent writing sample.
 
 As long as they can write organize their thoughts in writing and are passionate about finding ways to promote their work, they can write content and learn how to market.
 
 __Rob Wormley, Head of Content Marketing at [When I Work](http://wheniwork.com), cautions against hiring someone only for their writing skills:__
- 
-> "I think a lot of business owners make the mistake of paying attention only to writing abilities. They don't understand that in order for content marketing to work, you need someone who can hold the reigns and steer the horse. It's not just about good copywriting. You need to find someone who is hungry for results. 
-> 
+
+> "I think a lot of business owners make the mistake of paying attention only to writing abilities. They don't understand that in order for content marketing to work, you need someone who can hold the reigns and steer the horse. It's not just about good copywriting. You need to find someone who is hungry for results.
+>
 > There's a big difference between a copywriter and a content marketer. A copywriter can come up with good ideas and content— heck, they can even use the tools. But a content marketer should be able explain the strategy behind their ideas (i.e. what makes them good ideas), and should be comfortable making recommendations on what to do with content once it has been produced (i.e. they should be experts at content promotion & outreach).
 
-But do you want someone who can create content, or would you be ok with someone who’s a great project manager, someone who’s great with analytics and can hire a body of talented freelancers? 
+But do you want someone who can create content, or would you be ok with someone who’s a great project manager, someone who’s great with analytics and can hire a body of talented freelancers?
 
 __Ted Karczewski, Content Marketing Manager at [Skyword](http://skyword.com) and the Managing Editor of the Content Standard, says it's all about filling the gaps:__
 
->“It really comes down to identifying the most important gap in your current system. 
+>“It really comes down to identifying the most important gap in your current system.
 
->When I was hiring for our last role, I started out by looking for marketers with a passion for media, writing, and editing. We found a lot of excellent marketing candidates who knew the value of content, but no one stood out as a true wordsmith. 
+>When I was hiring for our last role, I started out by looking for marketers with a passion for media, writing, and editing. We found a lot of excellent marketing candidates who knew the value of content, but no one stood out as a true wordsmith.
 
 >We didn't realize until after 4 or 5 candidates that we were actually looking for a traditional media type-- an editor and journalist-- interested in new media. Once we shifted our focus to finding a journalist looking to transition to the brand side, the search ended almost immediately.”
 
@@ -97,9 +98,9 @@ __Insights from Johnathan Dane, Founder of [KlientBoost](http://klientboost.com/
 
 __Rob Wormley, Head of Content Marketing at [When I Work](http://wheniwork.com), suggests that you go beyond the blog post and challenge candidates to come up with content promotion plans:__
 
->"There are A TON of writers out there who are calling themselves 'content marketers' now. A good way to weed out unqualified candidates is to give them a small test. Instead of asking them to write a blog post for you, ask them to pitch you a potential blog post idea and content promotion plan that can be executed on once that piece of content has been published. 
+>"There are A TON of writers out there who are calling themselves 'content marketers' now. A good way to weed out unqualified candidates is to give them a small test. Instead of asking them to write a blog post for you, ask them to pitch you a potential blog post idea and content promotion plan that can be executed on once that piece of content has been published.
 
->You'll figure out really quickly who has the knowledge/skills and who doesn't. Also, you get what you pay for. If you don't want to pay for a good content marketer, then don't be surprised when you don't get good results." 
+>You'll figure out really quickly who has the knowledge/skills and who doesn't. Also, you get what you pay for. If you don't want to pay for a good content marketer, then don't be surprised when you don't get good results."
 
 ##In the mean time
 
@@ -107,12 +108,10 @@ Content marketing takes a long time to take hold, so doing *something* is better
 
 Some people feel they need an in-house content marketer to get started on their efforts, which I totally get, but a seasoned consultant can help get things started, so that you'll have a library of assets when your new content marketer starts.
 
-A consultant can help you come up with interim plans, and execute on a strategy. They can come up with topics and write blog posts while you wait for the perfect catch to manage the process. If you end up hiring a greeny, an experienced consultant can help them learn. 
+A consultant can help you come up with interim plans, and execute on a strategy. They can come up with topics and write blog posts while you wait for the perfect catch to manage the process. If you end up hiring a greeny, an experienced consultant can help them learn.
 
 ##Thanks for reading :)
 
 Hiring a content marketer is hard, and I hope this post will help you find a good fit.
 
 If you want more tips on how to run an effective content marketing program at your startup or tech company, [subscribe to my newsletter](http://eepurl.com/bC5VDD) (I don't send emails often, and you'll receive posts like this directly in your inbox before anyone else gets their grubby hands on them!).
-
-
