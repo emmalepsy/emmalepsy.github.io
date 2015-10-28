@@ -6,6 +6,7 @@ categories: []
 tags: []
 status: publish
 type: post
+redirect_from: "/blog/How-to-Get-Your-Coworkers-to-Write-for-the-Company-Blog.html"
 published: true
 excerpt: It's great to have your team members contribute to the company blog, but it can take some convincing. In this post, I offer my insights on how you can encourage your team to contribute to the company blog.
 ---
