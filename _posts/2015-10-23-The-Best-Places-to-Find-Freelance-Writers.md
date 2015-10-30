@@ -11,9 +11,9 @@ published: true
 excerpt: I know a lot about finding freelance writers. I used to hire them, and now I work as one myself.
 ---
 
-Writing frustrates me all the time, and I do it professionally.
+Writing articles, web copy, and marketing emails is hard. 
 
-Writing articles, web copy, and marketing emails is hard. Even if you're a decent writer, it can take a lot of time to craft an announcement on the company blog, nevermind a longform guide.
+Even if you're a decent writer, it can take a lot of time to craft an announcement on the company blog, nevermind a longform guide.
 
 You want help, but you can't seem to find a freelance writer who's any good.
 
