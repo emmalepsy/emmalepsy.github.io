@@ -1,3 +1,14 @@
+---
+layout: post
+title: Why Freelancers Should Discuss Rates With Each Other
+date: 2015-11-04 12:04:56.000000000 -05:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: I love being a freelancer because I'm part of a supportive community. To support my fellow freelancers, I believe in sharing rates.
+---
 When I had a full-time job, potential clients came to me and asked me to write for them. I liked the work, but I wasn’t sure if I could turn it into a career. Freelancers have a lot of fears when they first go out on their own, but I only had one.
 
 Money.
