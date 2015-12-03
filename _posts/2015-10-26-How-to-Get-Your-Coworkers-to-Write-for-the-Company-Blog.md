@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Your Coworkers to Write for the Company Blog
+title: How to get your coworkers to write for the company blog
 date: 2015-10-26
 categories: []
 tags: []
