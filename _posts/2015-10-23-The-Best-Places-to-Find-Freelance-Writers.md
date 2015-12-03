@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Places to Find Freelance Writers
+title: The best places to find freelance writers
 date: 2015-10-23
 categories: []
 tags: []
