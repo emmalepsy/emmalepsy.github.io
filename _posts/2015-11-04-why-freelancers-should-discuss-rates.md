@@ -23,7 +23,7 @@ I’ve only been freelancing for two months, but I’m supporting myself without
 
 Here’s why:
 
-## Learning Where You Fit
+## Learning where you fit
 
 Many freelance writers get a lot of lowball offers from clients who want to pay $15-$20 per article, and I’m sure freelance designers face the same challenge. If you’re just starting out, it can be tempting to take on these low-paying jobs. You reason that you don’t have much experience and that these clients must know better than you.
 
@@ -31,7 +31,7 @@ But you know who knows better than those clients? Other freelancers.
 
 Find a few freelancers in your community and ask them if they’d be willing to share what they charge. Find some who are very, very experienced, and others who are just starting out like you. Learning where you fit will help you understand if you’re charging a reasonable rate for your level of experience.
 
-## It’s Good for The Industry
+## It’s good for the industry
 
 Many marketers see content creation as a commodity. They crawl websites like UpWork looking for the cheapest, fastest work. But is this what we want people to think of the freelance industry?
 
@@ -39,7 +39,7 @@ In order to support ourselves, we need to make livable wages. And, if we want co
 
 By sharing what we charge, we can encourage those who are working for scraps to narrow in and charge more.
 
-## Freelancing Can Be Isolating & Lonely
+## Freelancing can be isolating & lonely
 
 When I went to an office every day, I had a whole audience. They listened to my jokes, partook in my various pranks, and helped me fill my Amazon shopping cart. I had a manager who not only helped me prioritize tasks, but also helped me grow and develop as a professional.
 
@@ -49,7 +49,7 @@ The only reason I haven’t melted into a pile of mush is because I have a commu
 
 When I’m dealing with confusing revisions, or am unsure what to charge, I can go to my community to get insights and support.
 
-## A Freelancer’s Money Problems Are Unique
+## A freelancer’s money problems are unique
 
 Shortly after starting my freelance business, I had lunch with my best friend who works as a librarian. She had lots of questions, and I quickly realized that my financial life had grown complicated and confusing. After lunch, I told her I had to go to a meeting with my accountants. 
 
@@ -59,7 +59,7 @@ Joking aside, freelancers are riddled with responsibility that our family and fr
 
 There are lots of resources online to help us out, but nothing replaces a back and forth conversation about your personal situation. When we share our unique money problems with each other, we realize they’re not so unique, which can be a great comfort.
 
-## Unity Trumps Competition
+## Unity trumps competition
 
 Some might be tempted to keep their freelancing secrets to themselves, for fear the competition will eat them alive. I don’t buy it– I think there’s more than enough work for all of us, especially those of us who are…good.
 
@@ -67,7 +67,7 @@ In fact, freelancers are always referring work to other freelancers. According t
 
 I get most of my clients from referrals, many from other freelancers, so I want to maintain positive relationships with other independent workers. I see them as friends in my community, not competition.
 
-## Share The Wealth
+## Share the wealth
 
 I wouldn’t have become a freelancer if people hadn’t told me how much money they made. I’m not advocating posting our salaries on our personal websites. Instead, I’m suggesting we be honest with other freelancers who share the same struggles.
 
