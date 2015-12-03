@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Freelancers Should Discuss Rates With Each Other
+title: Why freelancers should discuss rates with each other
 date: 2015-11-04 12:04:56.000000000 -05:00
 categories: []
 tags: []
