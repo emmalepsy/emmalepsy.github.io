@@ -24,9 +24,11 @@ Emojis can be used in small doses to get your message across, no matter what sor
 
 ## Don’t jump on a trend 
 There’s a Twitter account called [Brands Saying Bae](http://twitter.com/brandssayingbae) which exists exclusively to make fun of brands who are trying to be relevant by talking and acting like kids on social media. This account features all sorts of marketing assets to show how ridiculous it is for a large company like Samsung to try to talk like a college student on Snapchat.
-
+![Samsung on Snapchat]({{ site.url }}/assets/samsung.png)
 
 The account is instructive, but it’s not entirely fair, either. Sometimes, using trendy copy can really work for a brand. Sometimes, it makes sense to say bae. [DiGiorno Pizza’s Twitter account](https://twitter.com/DiGiornoPizza) is one of my favorites, and it’s because DiGiorno understands its audience, and uses current language and turns of phrases to speak to it:
+
+![DiGiorno on Twitter]({{ site.url }}/assets/digiorno.png)
 
 DiGiorno’s Tweets are successful because they sound like the brand, not because they’re capitalizing on slang talk just for the sake of it.
 
