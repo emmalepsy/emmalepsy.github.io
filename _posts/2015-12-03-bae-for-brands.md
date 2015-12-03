@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Why freelancers should discuss rates with each other
-date: 2015-11-04 12:04:56.000000000 -05:00
+title: Bae for brands? Content creation tips for slang and other trendy stuff
+date: 2015-12-03 
 categories: []
 tags: []
 status: publish
 type: post
 published: true
-excerpt: I love being a freelancer because I'm part of a supportive community. To support my fellow freelancers, I believe in sharing rates.
----#Bae for brands? Content creation tips for slang and other trendy stuff
-
+excerpt: Where do emojis, slang, and other trendy stuff fit into content creation for brands? We explain when it’s appropriate to use “on fleek” and “bae.”
+---
 I’ll admit it—I love emojis. I use them to text my friends, as captions on Instagram, and my boyfriend and I even send each other a certain emoji combination that, to us, means “I love you.”
 
 But as someone who does content creation for a living, I often wonder how emojis, slang, and other trendy stuff fit into my work. Should content marketers embrace emojis, slang (like bae, on fleek), and Internet memes, or is jumping into these trends gimmicky? When are we being current, and when are we trying too hard?
