@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Find a Content Marketer That's Worth Hiring
+title: How to find a content marketer that's worth hiring
 date: 2015-10-26
 categories: []
 tags: []
