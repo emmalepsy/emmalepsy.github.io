@@ -37,7 +37,7 @@ The key to successful use of emojis and slang is to keep things relevant. You sh
 
 For example, [Airfarewatchdog](http://airfarewatchdog.com/), which sends deals on flights via email, has begun incorporating emojis into its subject lines. The addition of the airplane emoji is fun, relevant, and reminds the audience of why they signed up for Airfarewatchdog in the first place—flights! The image of an airplane keeps the services top of mind, and it’s a successful use of the emoji in online writing.
 
-Airfare WatchDog uses an airplane emoji in an email subject line
+![Airfare WatchDog uses an airplane emoji in an email subject line ]({{ site.url }}/assets/airfare.png)
 
 When I receive these emails from Airfarewatchdog, I smile. The company is using emojis, but it’s not getting in the way of the brand’s messaging. The emoji addition is effective, and it’s not trying too hard to be… on fleek.
 
