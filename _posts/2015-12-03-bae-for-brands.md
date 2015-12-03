@@ -50,6 +50,4 @@ You can implement as many best practices as you want, but online writing is real
 
 Whether you incorporate emojis or not, staying up to date is an essential part of our jobs as marketers. My hope is that these content creation tips will help you take your writing to the next level. 
 
-For more tips on how to be a better content creator, subscribe to my email newsletter. Ugh, I know, a newsletter, but mine's actually good!
-
 *This article originally appeared on [Skyword's Content Standard](http://www.skyword.com/contentstandard/for-storytellers/bae-for-brands-content-creation-tips-for-slang-and-other-trendy-stuff/).*
