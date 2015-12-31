@@ -35,7 +35,7 @@ I was born and raised in Massachusetts, and I even have a little townie anthem I
 
 This year, Chris (my boyfriend) and I took a big leap and moved to San Diego. We strongly considered moving to San Francisco, but since we both work from home, we wanted space. San Francisco is a pretty expensive place if you want two bedrooms, so we opted to try out San Diego, knowing we might end up in San Francisco at some point if either of our jobs take us there.
 
-![emmaandchrisinSD](http://storiesbyemma.co/2015-12-31-Emma-year-in-review-2015.md/assets/chrisandemma.png)
+![emmaandchrisinSD](http://storiesbyemma.co/assets/chrisandemma.png)
 
 California is weird and amazing. I find everything about it convenient (there are like 10 Targets within a 15 minute drive), but I don’t know. Can it beat the winding New England roads and salt box colonials? Time will tell. 
 
