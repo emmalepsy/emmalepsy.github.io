@@ -60,7 +60,7 @@ California is weird and amazing. I find everything about it convenient (there ar
 Starting my own business and moving across the country were the biggest things that happened to me in 2015, but here are some other fun things that happened this year:
 
 * __I worked with amazing clients.__ My clients are awesome. I’ve been privileged to work with Campaign Monitor, KISSmetrics, Skyword, Northeastern University, When I Work, and many others in 2015.
-* Chris and I drove across the country. It was pretty cool. Kansas is not very cool.
+* __Chris and I drove across the country.__ It was pretty cool. Kansas is not very cool.
 * __I started boxing.__ More like a fitness version of boxing, but still. I have pink gloves, and it’s a great workout. I try to go to 2-3 times per week, and I’m running again as well.
 * __I got amazing support from my friends and family.__ My friends and family are the best. They offered their love and support to me all year. I love you!
 * __I worked for Grasshopper for half of the year.__ I had a great experience working at Grasshopper and continue to keep in touch with my former colleagues.
