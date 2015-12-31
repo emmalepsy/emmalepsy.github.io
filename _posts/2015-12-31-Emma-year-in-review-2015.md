@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015: Emma's year in review
-date: 2015-12-31 12:04:56.000000000 -05:00
+date: 2015-12-31
 categories: []
 tags: []
 status: publish
@@ -9,6 +9,7 @@ type: post
 published: true
 excerpt: The past year was full of excitement-- I started a business and moved to California. Here's my year in review.
 ---
+
 In July of this year, I launched [Stories by Emma](http://storiesbyemma.co/), my own content marketing business. Over the summer, I talked to lots of friends and family about what I was doing, but as the luster of a new venture burned away, I stopped sharing what I was doing, and wasn’t reflecting on the progress I made.
 
 But then I saw Kaleigh Moore, one of my absolute favorite people to work with, post about her experiences in 2015. In her blog post, she talked about refining her business niche, collaborating with other freelancers, and some fun stuff like trips she took and courses she learned from. 
@@ -34,7 +35,7 @@ I was born and raised in Massachusetts, and I even have a little townie anthem I
 
 This year, Chris (my boyfriend) and I took a big leap and moved to San Diego. We strongly considered moving to San Francisco, but since we both work from home, we wanted space. San Francisco is a pretty expensive place if you want two bedrooms, so we opted to try out San Diego, knowing we might end up in San Francisco at some point if either of our jobs take us there.
 
-![emmaandchrisinSD](http://storiesbyemma.co/assets/chrisandemma.png)
+![emmaandchrisinSD]({{ site.url }}/assets/chrisandemma.png)
 
 California is weird and amazing. I find everything about it convenient (there are like 10 Targets within a 15 minute drive), but I don’t know. Can it beat the winding New England roads and salt box colonials? Time will tell. 
 
