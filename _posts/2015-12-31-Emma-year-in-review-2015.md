@@ -1,4 +1,14 @@
-# 2015: Emma’s year in review
+---
+layout: post
+title: 2015: Emma's year in review
+date: 2015-12-31 
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: The past year was full of excitement-- I started a business and moved to California. Here's my year in review.
+---
 
 In July of this year, I launched Stories by Emma, my own content marketing business. Over the summer, I talked to lots of friends and family about what I was doing, but as the luster of a new venture burned away, I stopped sharing what I was doing, and wasn’t reflecting on the progress I made.
 
