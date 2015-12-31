@@ -10,7 +10,7 @@ published: true
 excerpt: The past year was full of excitement-- I started a business and moved to California. Here's my year in review.
 ---
 
-In July of this year, I launched Stories by Emma, my own content marketing business. Over the summer, I talked to lots of friends and family about what I was doing, but as the luster of a new venture burned away, I stopped sharing what I was doing, and wasn’t reflecting on the progress I made.
+In July of this year, I launched [Stories by Emma](http://storiesbyemma.co/), my own content marketing business. Over the summer, I talked to lots of friends and family about what I was doing, but as the luster of a new venture burned away, I stopped sharing what I was doing, and wasn’t reflecting on the progress I made.
 
 But then I saw Kaleigh Moore, one of my absolute favorite people to work with, post about her experiences in 2015. In her blog post, she talked about refining her business niche, collaborating with other freelancers, and some fun stuff like trips she took and courses she learned from. 
 
