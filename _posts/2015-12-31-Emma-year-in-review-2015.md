@@ -74,16 +74,3 @@ A year is a long time, and so many things happened in 2015 that I can't remember
 There were a lot of challenges in the past year, but a lot of positive changes happened, and I can't wait to see what happens in 2016.
 
 _Happy New Year!_
-
-  <div style="clear: both"></div>
-   
- <div class="gray-backed-frame">
- <p class="center small">I write occasional emails on content marketing and writing.
- <br>Sign up for a sprinkle of Emma in your inbox.</p>
- <form action="http://emmasiemaskocom.createsend.com/t/t/s/bjilut/" method="post" id="subForm">
-    <p class="center">
-        <input id="fieldEmail" name="cm-bjilut-bjilut" type="email" placeholder="Email address" required />
-        <span class="btn cta" onclick="document.getElementById('subForm').submit();">Subscribe</span>
-    </p>
-   </div>
-</form>
