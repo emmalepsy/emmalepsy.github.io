@@ -23,6 +23,31 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <style>
+#main_container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: -webkit-flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+.c1, .c2, .c3, .c4, .c5 {
+  width: 100%;
+}
+
+@media (min-width: 800px) {
+  .c1 {
+     width: 60%;
+  }
+  .c2 {
+     width: 40%;
+  }
+  .c3 {
+     width: 60%;
+  }
+}
+
 
 </style>
 <body>
@@ -40,9 +65,7 @@
   </div>
 </div>
 
-  <div>
-    <img src="emmaheadshot2.jpg">
-  </div>
+  <div class="c1">
   <h1>I'm Emma Siemasko.</h1>
   <h2>I help companies share their stories through copy
     and content.
@@ -70,7 +93,10 @@
     strategies. I offer tailored solutions-- nothing that's one size fits
     all. I'm the bespoke suit of content. Let me help you!
   </p>
-   <div style="clear: both"></div>
+  </div>
+  <div class="c2">
+    <img src="emmaheadshot2.jpg">
+  </div>
    
  <div class="gray-backed-frame">
  <p class="center small">I write occasional emails on content marketing and writing.
