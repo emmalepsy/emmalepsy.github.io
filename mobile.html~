@@ -22,6 +22,209 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <style>
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+body {
+   background: #e1f3fa;
+   color: #333;
+   font-family: "Lato", serif;
+   position: relative;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+@media (min-width: 600px) {
+  html {
+    min-width: 1040px;
+  }
+  body {
+    width: 960px;
+  }
+}
+
+h1, h2, h3, h4 { font-family: "Lato", serif; color: #000; text-rendering: optimizeLegibility; }
+h1 {
+  font-size: 44px;
+  color: #163842;
+  line-height: 1.2em;
+  letter-spacing: -0.025em;
+  font-weight: 900;
+  margin-top: 0.67em;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+h2 {
+   font-size: 28px;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #307489;
+}
+
+h3 {
+   font-size: 22px;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #db5b4a;
+}
+
+a {
+  color: #0099c3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+#main_container {
+  background: #ffffff;
+  padding-left: 60px;
+  padding-top: 40px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+p, ol, ul {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  line-height: 1.55em;
+  color: #555555;
+}
+
+
+#main_nav {
+   font-family: "Lato";
+   font-size: 22px;
+   letter-spacing: -0.025em;
+   padding-top: 40px;
+   float: right;
+}
+
+#main_nav ul {
+ font-size: 22px;
+ list-style: none;
+}
+
+#main_nav li {
+  display: inline;
+}
+
+.btn {
+  color: #163842;
+  padding-right: 10px;
+}
+
+#main_nav a:hover {
+  text-decoration: none;
+}
+
+#contact {
+  border-radius:3px;
+  color: #ffffff;
+  background: #db5b4a;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.cta {
+  border-radius:3px;
+  color: #ffffff;
+  background: #db5b4a;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.gray-backed-frame {
+  border-radius: 5px;
+  background-image: url(grey.png);
+  margin-left: 75px;
+  margin-right: 75px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#logo {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.holler {
+ padding-left: 1em;
+ padding-right: 1em;
+}
+
+.pull-quote {
+  padding-left: 200px;
+}
+
+.small {
+ font-size: 16px;
+ letter-spacing: 0;
+ line-height: 1.375em;
+ /*color: #aaaaaa;*/
+}
+
+.center {
+  text-align: center;
+}
+
+.grayscale {
+ filter: grayscale(100%);
+ -webkit-filter: grayscale(100%);
+}
+
+.image-cropper {
+width: 200px;
+height: 200px;
+position: relative;
+overflow: hidden;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+-ms-border-radius: 50%;
+-o-border-radius: 50%;
+border-radius: 50%;
+}
+
+.circleimg {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+#social-party li {
+  display: inline;
+}
+
+ul.iconlist {
+  list-style-type: none;
+}
+
+ul.iconlist li {
+  text-indent: -1.4em;
+}
+
+ul.iconlist li:before
+{
+  font-family: 'octicons';
+  font-size: 28px;
+  color:  #307489;
+  content: "\f02a";
+  float: left;
+  width: 1.4em;
+}
 
 </style>
 <body>
