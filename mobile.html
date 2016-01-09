@@ -42,6 +42,14 @@ body {
   flex-flow: row wrap;
 }
 
+.group {
+ margin: 0;
+ padding: 0;
+ display: -webkit-flex;
+ -webkit-flex-flow: row wrap;
+ flex-flow: row wrap;
+}
+
 .c1, .c2, .c3, .c4, .c5, .c6 {
   width: 100%;
 }
@@ -205,7 +213,7 @@ ul.iconlist li:before
    
   <h2 class="center">As seen in</h2>
 
-  <div>
+  <div class="group">
     <div class="c6">
       <img src="campaignmonitor.png">
     </div>
@@ -223,7 +231,7 @@ ul.iconlist li:before
 
  <h2 class="center">Things I have that you want</h2><a name="services"></a>
 
-  <div class>
+  <div class="group">
     <div class="c6">
       <h2 class="holler center"><span class="mega-octicon octicon-star"></span></h2>
       <h3 class="holler">Content Strategy</h3>
