@@ -60,8 +60,9 @@ body {
 }
 
 #main_nav {
-   font-family: "Lato";
-   letter-spacing: -0.025em;
+  font-family: "Lato";
+  letter-spacing: -0.025em;
+  display: none;
 }
 
 #main_nav ul {
@@ -80,6 +81,7 @@ body {
   margin: auto;
   min-width: 200px;
   max-width: 200px;
+  margin-bottom: 1em;
 }
 
 p, ol, ul {
@@ -95,6 +97,38 @@ p, ol, ul {
 .small {
   font-size: 80%;
   letter-spacing: 0;
+}
+
+h1, h2, h3, h4 {
+   font-family: "Lato", serif;
+   color: #000;
+   text-rendering: optimizeLegibility;
+}
+
+h1 {
+   color: #163842;
+   line-height: 1.2em;
+   letter-spacing: -0.025em;
+   font-weight: 900;
+   font-size: 250%;
+   margin-top: 0;
+   margin-right: 0;
+   margin-bottom: 0;
+   margin-left: 0;
+}
+
+h2 {
+   font-size: 200%;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #307489;
+}
+
+h3 {
+   font-size: 112.5%;
+   letter-spacing: -0.025em;
+   line-height: 1.3em;
+   color: #db5b4a;
 }
 
 @media (min-width: 800px) {
@@ -132,6 +166,7 @@ p, ol, ul {
   #main_nav {
      float: right;
      padding-top: 3em;
+     display: block;
   }
 
   #main_nav li {
@@ -149,10 +184,15 @@ p, ol, ul {
     letter-spacing: -0.01em;
     line-height: 1.55em;
   }
-  .holler { 
+  .holler {
     padding-left: 0.25em;
     padding-right: 0.25em;
   }
+
+  h1 {
+    margin-top: 0.67em;
+  }
+
   h3 {
     font-size: 120%;
   }
@@ -167,38 +207,6 @@ p, ol, ul {
 
 .client img {
   max-width: 100%;
-}
-
-h1, h2, h3, h4 { 
-   font-family: "Lato", serif;
-   color: #000; 
-   text-rendering: optimizeLegibility; 
-}
-
-h1 {
-   color: #163842;
-   line-height: 1.2em;
-   letter-spacing: -0.025em;
-   font-weight: 900;
-   font-size: 250%;
-   margin-top: 0.67em;
-   margin-right: 0;
-   margin-bottom: 0;
-   margin-left: 0;
-}
-
-h2 {
-   font-size: 200%;
-   letter-spacing: -0.025em;
-   line-height: 1.3em;
-   color: #307489;
-}
-
-h3 {
-   font-size: 112.5%;
-   letter-spacing: -0.025em;
-   line-height: 1.3em;
-   color: #db5b4a;
 }
 
 a {
@@ -328,7 +336,7 @@ ul.iconlist li:before
 	  </p>
 	</form>
       </div>
-   
+
       <h2 class="center">As seen in</h2>
 
       <div class="group">
@@ -415,8 +423,8 @@ ul.iconlist li:before
 	  <img src="mattkoulas120.png">
 	  <p class="pull-quote"><span class="mega-octicon
 					     octicon-quote"></span>
-	    Emma was amazing to work with in every aspect. Highlights from her time at Grasshopper include 
-	    developing the content in our Resource Center which got 150k visits in 18 months, as well as nearly 
+	    Emma was amazing to work with in every aspect. Highlights from her time at Grasshopper include
+	    developing the content in our Resource Center which got 150k visits in 18 months, as well as nearly
 	    tripling blog traffic.</p>
           <p class="pull-quote">--Matt Koulas, Search Marketing Manager at Grasshopper</p>
 	</div>
@@ -424,7 +432,7 @@ ul.iconlist li:before
 
       <a name="samples"></a>
       <h2 class="center">Sweet samples</h2>
-      
+
       <ul>
 	<li><a href="http://grasshopper.com/resources/jump-starting-and-growing-your-business/">JUMP:
 	    The Ultimate Guide to Starting and Growing a Business</a> |
