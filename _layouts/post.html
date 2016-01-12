@@ -12,6 +12,11 @@
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.excerpt }}">
 <meta name="twitter:image" content="http://storiesbyemma.co/small-logo-blue.png">
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.4.1/octicons.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="stylesheet" href="style.css">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -22,257 +27,54 @@
   ga('send', 'pageview');
 
 </script></head>
-<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.4.1/octicons.min.css">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<style>
-@import url(http://fonts.googleapis.com/css?family=Lato);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
-body {
-   background: #e1f3fa;
-   color: #333;
-   font-family: "Lato", serif;
-   position: relative;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-}
-
-@media (min-width: 600px) {
-  html {
-    min-width: 1040px;
-  }
-  body {
-    width: 960px;
-  }
-}
-
-h1, h2, h3, h4 { font-family: "Lato", serif; color: #000; text-rendering: optimizeLegibility; }
-h1 {
-  font-size: 44px;
-  color: #163842;
-  line-height: 1.2em;
-  letter-spacing: -0.025em;
-  font-weight: 900;
-  margin-top: 0.67em;
-  margin-right: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-}
-
-h2 {
-   font-size: 28px;
-   letter-spacing: -0.025em;
-   line-height: 1.3em;
-   color: #307489;
-}
-
-h3 {
-   font-size: 22px;
-   letter-spacing: -0.025em;
-   line-height: 1.3em;
-   color: #db5b4a;
-}
-
-a {
-  color: #0099c3;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-
-#main_container {
-  background: #ffffff;
-  padding-left: 60px;
-  padding-top: 40px;
-  padding-right: 60px;
-  padding-bottom: 10px;
-  border-radius: 10px;
-}
-
-p, ul, ol {
-  font-family: 'Open Sans';
-  font-size: 18px;
-  letter-spacing: -0.01em;
-  line-height: 1.55em;
-  color: #555555;
-}
-
-#main_nav {
-   font-family: "Lato";
-   font-size: 22px;
-   letter-spacing: -0.025em;
-   padding-top: 40px;
-   float: right;
-}
-
-#main_nav ul {
- list-style: none;
- font-size: 22px;
-}
-
-#main_nav li {
-  display: inline;
-}
-
-.btn {
-  color: #163842;
-  padding-right: 10px;
-}
-
-#main_nav a:hover {
-  text-decoration: none;
-}
-
-#contact {
-  border-radius:3px;
-  color: #ffffff;
-  background: #db5b4a;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-.cta {
-  border-radius:3px;
-  color: #ffffff;
-  background: #db5b4a;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-.gray-backed-frame {
-  border-radius: 5px;
-  background-image: url(grey.png);
-  margin-left: 75px;
-  margin-right: 75px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 4px;
-  padding-bottom: 4px;
-}
-
-#logo {
- padding-top: 10px;
- padding-bottom: 10px;
-}
-
-.holler {
- padding-left: 1em;
- padding-right: 1em;
-}
-
-.pull-quote {
-  padding-left: 200px;
-}
-
-.small {
- font-size: 16px;
- letter-spacing: 0;
- line-height: 1.375em;
- color: #aaaaaa;
-}
-
-.center {
-  text-align: center;
-}
-
-.grayscale {
- filter: grayscale(100%);
- -webkit-filter: grayscale(100%);
-}
-
-.image-cropper {
-width: 200px;
-height: 200px;
-position: relative;
-overflow: hidden;
--webkit-border-radius: 50%;
--moz-border-radius: 50%;
--ms-border-radius: 50%;
--o-border-radius: 50%;
-border-radius: 50%;
-}
-
-.circleimg {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
-}
-
-#social-party li {
-  display: inline;
-}
-
-ul.iconlist {
-  list-style-type: none;
-}
-
-ul.iconlist li {
-  text-indent: -1.4em;
-}
-
-ul.iconlist li:before
-{
-  font-family: 'octicons';
-  font-size: 28px;
-  color:  #307489;
-  content: "\f02a";
-  float: left;
-  width: 1.4em;
-}
-
-#sharing {
-  font-size: 20px;
-}
-
-</style>
 <body>
-<div id="header">
-  <a href="../index.html"><img id="logo" src="../small-logo-blue.png" width="200px"></a>
-  <div id="main_nav">
-    <ul>
-      <li><a class="btn" href="../index.html">Home</a></li>
-      <li><a class="btn" href="../index.html#services">Services</a></li>
-      <li><a class="btn" href="../index.html#samples">Portfolio</a></li>
-      <li><a class="btn" href="blog.html">Blog</a></li>
-      <li><a class="btn" id="contact" href="../index.html#contacts">Get in Touch</a></li>
-    </ul>
+  <div id="container">
+    <div class="group">
+      <div class="c1">
+        <div id="header">
+          <a href="../index.html"><img id="logo" src="../small-logo-blue.png" width="200px"></a>
+        </div>
+      </div>
+      <div class="c2">
+        <div id="main_nav">
+          <ul>
+            <li><a class="btn" href="../index.html">Home</a></li>
+            <li><a class="btn" href="../index.html#services">Services</a></li>
+            <li><a class="btn" href="../index.html#samples">Portfolio</a></li>
+            <li><a class="btn" href="blog.html">Blog</a></li>
+            <li><a class="btn" id="contact" href="../index.html#contacts">Get in Touch</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div id="main_content">
+      <h1> {{ page.title }} </h1>
+      <h3> {{ page.date | date: '%B %d, %Y' }} </h3>
+      {{ content }}
+
+      <div id="sharing">
+        <span style="font-size: 18px; color: #aaaaaa">Share this on</span>
+        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via=storiesbyemma&related=storiesbyemma" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+        <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.url }}" title="Share on LinkedIn"><i class="fa fa-linkedin"></i></a>
+      </div>
+
+      <div class="gray-backed-frame" style="margin-top:20px">
+        <p class="center small">I write occasional emails on content marketing and writing.
+          <br>Sign up for a sprinkle of Emma in your inbox.
+        </p>
+        <form action="http://emmasiemaskocom.createsend.com/t/t/s/bjilut/" method="post" id="subForm">
+          <p class="center">
+            <input id="fieldEmail" name="cm-bjilut-bjilut" type="email" placeholder="Email address" required />
+            <span class="btn cta" onclick="document.getElementById('subForm').submit();">Subscribe</span>
+          </p>
+        </form>
+      </div>
+
+      <div align="right"><p class="holler tiny">© Copyright 2015 Stories by Emma, LLC.</p></div>
+    </div>
   </div>
-</div>
-<div id="main_container">
-  <h1> {{ page.title }} </h1>
-  <h3> {{ page.date | date: '%B %d, %Y' }} </h3>
-  {{ content }}
-  
-  <div id="sharing">
-     <span style="font-size: 18px; color: #aaaaaa">Share this on</span>  
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via=storiesbyemma&related=storiesbyemma" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
-    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.url }}" title="Share on LinkedIn"><i class="fa fa-linkedin"></i></a>
-  </div>
-  
-  <div class="gray-backed-frame" style="margin-top:20px">
-    <p class="center small">I write occasional emails on content marketing and writing.
-    <br>Sign up for a sprinkle of Emma in your inbox.
-    </p>
-    <form action="http://emmasiemaskocom.createsend.com/t/t/s/bjilut/" method="post" id="subForm">
-      <p class="center">
-          <input id="fieldEmail" name="cm-bjilut-bjilut" type="email" placeholder="Email address" required />
-          <span class="btn cta" onclick="document.getElementById('subForm').submit();">Subscribe</span>
-      </p>
-    </form>
-  </div>
-  
-  <div align="right"><p class="holler small">© Copyright 2015 Stories by Emma, LLC.</p></div>
 </div>
 </body>
 </html>
