@@ -185,6 +185,10 @@ ul.iconlist li:before
   width: 1.4em;
 }
 
+#sharing {
+  font-size: 150%;
+}
+
 @media (min-width: 800px) {
   .c1 {
      width: 20%;
