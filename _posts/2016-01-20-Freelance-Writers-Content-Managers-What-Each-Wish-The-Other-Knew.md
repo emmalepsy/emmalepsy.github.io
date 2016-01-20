@@ -1,3 +1,14 @@
+---
+layout: post
+title: What Freelance Writers and Content Managers Wish The Other Knew 
+date: 2015-12-31
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: Content managers and freelance writers work together all the time, but they don't always see eye to eye. Kaleigh Moore and I will dissect how freelancers and their managers can work together to get results.
+---
 Content managers and freelance writers work together all the time, but do they always see eye to eye?
 
 Nope. 
