@@ -45,12 +45,12 @@ We’ve hired countless freelance writers and have built successful freelance bu
 
 ![KaleighMoore]({{site.url}}/assets/kaleigh-moore-copywriter.jpg)
 
-###Kaleigh Moore, Founder of [Lumen](http://wearelumen.com)
+__Kaleigh Moore, Founder of [Lumen](http://wearelumen.com)__
 
 *Kaleigh Moore is a social-media consultant and copywriter who helps software-as-a-service companies craft intelligent content with a charming human element. She is also a regular contributor for Entrepreneur and Inc. Magazine.*			
 
 ![EmmaSiemasko]({{site.url}}/assets/emmaheadshotblab.jpg)
 
-###Emma Siemasko, Founder of [Stories by Emma](http://storiesbyemma.co)
+__Emma Siemasko, Founder of [Stories by Emma](http://storiesbyemma.co)__
 
 *Emma Siemasko is a content marketing strategist and freelance writer at Stories by Emma, her own consultancy. Emma writes words that are cuter than puppies and more delicious than chicken wings, and has worked as both a content marketing specialist at a top tier tech company and as a creative writer at an agency.* 
