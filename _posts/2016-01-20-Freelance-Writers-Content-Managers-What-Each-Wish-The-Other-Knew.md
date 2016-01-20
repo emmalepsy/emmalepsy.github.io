@@ -21,6 +21,7 @@ Join us __Wednesday, January 27th at 1:30 PM PST (3:30 PM CST)__ for a Blab that
 
 In 45 minutes, you’ll learn what obstacles freelance writers and content managers face, as well as how to overcome them. You’ll learn what makes great partnerships between writers and content managers, so you can pursue them yourself.
 
+<iframe style='max-width: 100%;' src='https://blab.im/emma-siemasko-bu' frameborder='0' height='480' scrolling='none' width='640'></iframe>
 
 Grab some headphones and join the link a minute or two before the Blab begins. Feel free to bring questions-- we’ll allow a few minutes at the end for Q&A.
 
