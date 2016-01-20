@@ -43,12 +43,12 @@ If you’re worried you’re going to forget, here’s [a handy link for putting
 ##Who’s talking?
 We’ve hired countless freelance writers and have built successful freelance businesses, so we know what it’s like to find a freelance writer or content manager you can’t live without. 
 
-
+![KaleighMoore]({{site.url}}/assets/kaleigh-moore-copywriter.jpg)
 ###Kaleigh Moore, Founder of Lumen
 
 *Kaleigh Moore is a social-media consultant and copywriter who helps software-as-a-service companies craft intelligent content with a charming human element. She is also a regular contributor for Entrepreneur and Inc. Magazine.*			
 
-
+![EmmaSiemasko]({{site.url}}/assets/emmaheadshot2.jpg)
 ###Emma Siemasko, Founder of Stories by Emma
 
 *Emma Siemasko is a content marketing strategist and freelance writer at Stories by Emma, her own consultancy. Emma writes words that are cuter than puppies and more delicious than chicken wings, and has worked as both a content marketing specialist at a top tier tech company and as a creative writer at an agency.* 
