@@ -19,9 +19,9 @@ But something magic happens when freelance writers and content managers develop 
 
 Join us __Wednesday, January 27th at 1:30 PM PST (3:30 PM CST)__ for a Blab that discusses what freelance writers wish their content managers knew-- and what those content managers wish their freelance writers knew. 
 
-In 45 minutes, you’ll learn what obstacles freelance writers and content managers face, as well as how to overcome them. You’ll learn what makes great partnerships between writers and content managers, so you can pursue them yourself.
-
 <iframe style='max-width: 100%;' src='https://blab.im/emma-siemasko-bu' frameborder='0' height='480' scrolling='none' width='640'></iframe>
+
+In 45 minutes, you’ll learn what obstacles freelance writers and content managers face, as well as how to overcome them. You’ll learn what makes great partnerships between writers and content managers, so you can pursue them yourself.
 
 Grab some headphones and join the link a minute or two before the Blab begins. Feel free to bring questions-- we’ll allow a few minutes at the end for Q&A.
 
@@ -45,12 +45,12 @@ We’ve hired countless freelance writers and have built successful freelance bu
 
 ![KaleighMoore]({{site.url}}/assets/kaleigh-moore-copywriter.jpg)
 
-###Kaleigh Moore, Founder of Lumen
+###Kaleigh Moore, Founder of [Lumen](http://wearelumen.com)
 
 *Kaleigh Moore is a social-media consultant and copywriter who helps software-as-a-service companies craft intelligent content with a charming human element. She is also a regular contributor for Entrepreneur and Inc. Magazine.*			
 
 ![EmmaSiemasko]({{site.url}}/assets/emmaheadshot2.jpg)
 
-###Emma Siemasko, Founder of Stories by Emma
+###Emma Siemasko, Founder of [Stories by Emma](http://storiesbyemma.co)
 
 *Emma Siemasko is a content marketing strategist and freelance writer at Stories by Emma, her own consultancy. Emma writes words that are cuter than puppies and more delicious than chicken wings, and has worked as both a content marketing specialist at a top tier tech company and as a creative writer at an agency.* 
