@@ -49,7 +49,7 @@ We’ve hired countless freelance writers and have built successful freelance bu
 
 *Kaleigh Moore is a social-media consultant and copywriter who helps software-as-a-service companies craft intelligent content with a charming human element. She is also a regular contributor for Entrepreneur and Inc. Magazine.*			
 
-![EmmaSiemasko]({{site.url}}/assets/emmaheadshot2.jpg)
+![EmmaSiemasko]({{site.url}}/assets/emmaheadshotblab.jpg)
 
 ###Emma Siemasko, Founder of [Stories by Emma](http://storiesbyemma.co)
 
