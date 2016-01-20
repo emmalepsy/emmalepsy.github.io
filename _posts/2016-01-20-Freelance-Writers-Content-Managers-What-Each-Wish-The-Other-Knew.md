@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Freelance Writers and Content Managers Wish The Other Knew 
+title: What freelance writers and content managers wish the other knew 
 date: 2016-01-20
 categories: []
 tags: []
