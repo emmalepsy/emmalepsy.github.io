@@ -37,6 +37,9 @@ Grab some headphones and join the link a minute or two before the Blab begins. F
 * *how to edit in a way that’s constructive, not destructive*
 * *and more that we’ll talk about in our chat*
 
+## Wait, what's Blab?
+Blab is like a combo of Google Hangouts and Periscope, where you can watch a live video chat, comment, and ask questions. All you have to do is visit our Blab link, and watch. It's free.
+
 ##Don’t forget
 If you’re worried you’re going to forget, here’s [a handy link for putting our Blab on your calendar.](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cGRrY2VkYmpyYmxtazNuNnBkdnBpMHRjbGMgZW1tYWZheWVAbQ&tmsrc=emmafaye%40gmail.com)
 
