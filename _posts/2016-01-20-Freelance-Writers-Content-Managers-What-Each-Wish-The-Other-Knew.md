@@ -9,6 +9,7 @@ type: post
 published: true
 excerpt: Content managers and freelance writers work together all the time, but they don't always see eye to eye. Kaleigh Moore and I will dissect how freelancers and their managers can work together to get results.
 ---
+
 <div style="text-align: center;" markdown="1">![EmmaSiemasko]({{site.url}}/assets/blabimage.jpg)</div>
 
 Content managers and freelance writers work together all the time, but do they always see eye to eye?
