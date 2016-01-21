@@ -26,14 +26,14 @@ In 45 minutes, you’ll learn what obstacles freelance writers and content manag
 Grab some headphones and join the link a minute or two before the Blab begins. Feel free to bring questions-- we’ll allow a few minutes at the end for Q&A.
 
 ###Freelance writers will learn…
-* how to create easy extras that show you’re invested in the brand
-* what content managers value in their favorite writers
-* and more that we’ll talk about in our chat
+* *how to create easy extras that show you’re invested in the brand*
+* *what content managers value in their favorite writers*
+* *and more that we’ll talk about in our chat*
 
 ###Content managers will learn…
-* how to communicate with freelancers to get the results you want
-* how to edit in a way that’s constructive, not destructive
-* and more that we’ll talk about in our chat
+* *how to communicate with freelancers to get the results you want*
+* *how to edit in a way that’s constructive, not destructive*
+* *and more that we’ll talk about in our chat*
 
 ##Don’t forget
 If you’re worried you’re going to forget, here’s [a handy link for putting our Blab on your calendar.](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cGRrY2VkYmpyYmxtazNuNnBkdnBpMHRjbGMgZW1tYWZheWVAbQ&tmsrc=emmafaye%40gmail.com)
