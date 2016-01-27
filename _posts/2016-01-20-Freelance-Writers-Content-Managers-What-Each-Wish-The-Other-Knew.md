@@ -21,6 +21,8 @@ But something magic happens when freelance writers and content managers develop 
 
 Join us __Wednesday, January 27th at 1:30 PM PST (3:30 PM CST)__ for a Blab that discusses what freelance writers wish their content managers knew-- and what those content managers wish their freelance writers knew. 
 
+_Link to the Blab: https://blab.im/emma-siemasko-freelance-writers-content-managers-what-each-wish-the-other-knew_
+
 <div style="text-align: center;" markdown="1"><iframe style='max-width: 100%;' src='https://blab.im/emma-siemasko-bu' frameborder='0' height='480' scrolling='none' width='640'></iframe></div>
 
 In 45 minutes, you’ll learn what obstacles freelance writers and content managers face, as well as how to overcome them. You’ll learn what makes great partnerships between writers and content managers, so you can pursue them yourself.
