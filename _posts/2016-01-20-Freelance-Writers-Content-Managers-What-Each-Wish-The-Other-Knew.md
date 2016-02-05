@@ -29,12 +29,12 @@ In 45 minutes, you’ll learn what obstacles freelance writers and content manag
 
 Grab some headphones and join the link a minute or two before the Blab begins. Feel free to bring questions-- we’ll allow a few minutes at the end for Q&A.
 
-###Freelance writers will learn…
+### Freelance writers will learn…
 * *how to create easy extras that show you’re invested in the brand*
 * *what content managers value in their favorite writers*
 * *and more that we’ll talk about in our chat*
 
-###Content managers will learn…
+### Content managers will learn…
 * *how to communicate with freelancers to get the results you want*
 * *how to edit in a way that’s constructive, not destructive*
 * *and more that we’ll talk about in our chat*
@@ -42,12 +42,12 @@ Grab some headphones and join the link a minute or two before the Blab begins. F
 ## Wait, what's Blab?
 Blab is like a combo of Google Hangouts and Periscope, where you can watch a live video chat, comment, and ask questions. All you have to do is visit our Blab link, and watch. It's free.
 
-##Don’t forget
+## Don’t forget
 If you’re worried you’re going to forget, here’s [a handy link for putting our Blab on your calendar.](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cGRrY2VkYmpyYmxtazNuNnBkdnBpMHRjbGMgZW1tYWZheWVAbQ&tmsrc=emmafaye%40gmail.com)
 
 To stay in the loop about future Blab Chats, join [Kaleigh and Emma's email lists](https://confirmsubscription.com/h/t/C289EA1640461CC5). You can also follow [Kaleigh](http://twitter.com/kaleighf/) and [Emma](http://twitter.com/emmafayes) on Twitter.
 
-##Who’s talking?
+## Who’s talking?
 We’ve hired countless freelance writers and have built successful freelance businesses, so we know what it’s like to find a freelance writer or content manager you can’t live without. 
 
 ![KaleighMoore]({{site.url}}/assets/kaleigh-moore-copywriter.jpg)
