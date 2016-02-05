@@ -42,11 +42,11 @@ For example, [Airfarewatchdog](http://airfarewatchdog.com/), which sends deals o
 
 When I receive these emails from Airfarewatchdog, I smile. The company is using emojis, but it’s not getting in the way of the brand’s messaging. The emoji addition is effective, and it’s not trying too hard to be… on fleek.
 
-##Your goal? Effective communication paired with authenticity
+## Your goal? Effective communication paired with authenticity
 
 You can implement as many best practices as you want, but online writing is really about effectively communicating with your audience. If emojis, Internet memes, and slang can help you get your message across, then feel free to use them. However, using these trendy devices to come across as hip is a recipe for disaster. No one likes a brand that’s trying too hard—everyone prefers authenticity.
 
-##Bye, Felicia!
+## Bye, Felicia!
 
 Whether you incorporate emojis or not, staying up to date is an essential part of our jobs as marketers. My hope is that these content creation tips will help you take your writing to the next level. 
 
