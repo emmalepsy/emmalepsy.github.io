@@ -18,7 +18,7 @@ Kaleigh is one of the freelancers who inspired me to go off on my own, and now s
 
 Here’s my 2015 year in review:
 
-##I learned a lot about running a business
+## I learned a lot about running a business
 
 When I worked at Grasshopper, I wrote a lot about starting and running a business. I was able to gain a lot of insight from talking to entrepreneurs, but I didn’t have the first-hand knowledge of what it means to run your own shop. Here are a few insights I gained this year:
 
@@ -29,7 +29,7 @@ When I worked at Grasshopper, I wrote a lot about starting and running a busines
 * __Software is good. But not too much software.__ I’ve written a lot of long lists detailing tons of software tools, but I’ve found that sticking to a few works best for me as a freelancer. I use [Google Analytics](http://google.com/analytics/), [Trello](http://trello.com) (synced with Google Calendar), [FreshBooks](http://freshbooks.com), and Google Drive. I use [GitHub](http://github.com) to host my website and Jekyll for my blog (this solution is only ok, as it often requires Chris's help). When I started, I used [Calendly](http://calendly.com) and a few other tools, but they just added noise to my work-life, and prevented me from interacting with my clients on a personal level. I phased them out.
 
 
-##I moved to California
+## I moved to California
 
 I was born and raised in Massachusetts, and I even have a little townie anthem I do when I’m in my hometown. It goes “born here, raised here, live here, die here,” said in a raspy, Boston accent. Yep, Masshole through and through.
 
@@ -40,7 +40,7 @@ This year, Chris (my boyfriend) and I took a big leap and moved to San Diego. We
 California is weird and amazing. I find everything about it convenient (there are like 10 Targets within a 15 minute drive), but I don’t know. Can it beat the winding New England roads and salt box colonials? Time will tell. 
 
 
-###Pros to living in California:
+### Pros to living in California:
 * Farmer’s markets with the best produce EVER. Also, succulents.
 * Super sunny. Seriously, the weather!
 * In the same time zone as my clients in Silicon Valley.
@@ -48,7 +48,7 @@ California is weird and amazing. I find everything about it convenient (there ar
 * Very convenient to get to the mall.
 * Everyone is really chilled out and takes their time at the hardware store.
 
-###Cons to living in California:
+### Cons to living in California:
 * They drive in a weird passive aggressive way. Like, they won’t let you merge on the highway, but they’re not outwardly aggressive.
 * Have to drive everywhere.
 * No one cares that I’m from the east coast.
@@ -57,7 +57,7 @@ California is weird and amazing. I find everything about it convenient (there ar
 * Don’t know how to make a bagel, meatball sub, or roast beef sandwich.
 * My friends and family aren’t here.
 
-##Some other fun stuff happened
+## Some other fun stuff happened
 Starting my own business and moving across the country were the biggest things that happened to me in 2015, but here are some other fun things that happened this year:
 
 * __I worked with amazing clients.__ My clients are awesome. I’ve been privileged to work with Campaign Monitor, KISSmetrics, Skyword, Northeastern University, When I Work, and many others in 2015.
@@ -67,7 +67,7 @@ Starting my own business and moving across the country were the biggest things t
 * __I worked for Grasshopper for half of the year.__ I had a great experience working at Grasshopper and continue to keep in touch with my former colleagues.
 * __I read a ton of books, including the Elena Ferrante books.__ I READ SO MANY BOOKS. And my friend Steph and I have an informal book club where we read the same books at the same time. Right now I am reading *The Japanese Lover* by Isabel Allende.
 
-##Just a sampling
+## Just a sampling
 
 A year is a long time, and so many things happened in 2015 that I can't remember them all. At some point, I went to Vegas. Actually, I went to Vegas twice!
 
