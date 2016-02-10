@@ -293,4 +293,7 @@ ul.iconlist li:before
   #blog {
     display: none;
   }
+  #samples { 
+    display: none;
+  }
 }
