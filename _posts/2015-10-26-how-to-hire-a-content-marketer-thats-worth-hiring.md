@@ -21,7 +21,7 @@ Jay Acunzo says there’s a [content marketing talent crunch](http://www.sorryfo
 
 I’ve been in the field a few years, and I constantly have people asking me how they can find a content marketer that’s worth hiring. Here’s what I tell them:
 
-##Be realistic
+## Be realistic
 I see so many startup founders looking to hire a content marketing unicorn. They want someone who is an amazing writer, a great publicist, and has the ability to parse analytics like a statistician.
 
 But these people seem to forget that a good content marketer comes at a premium. Most experienced content marketers:
@@ -35,7 +35,7 @@ That’s why you need to be realistic. How much can you afford to pay someone? D
 
 If you really want that unicorn, you can wait it out. Just recognize that great content marketers are few and far between, and that you may need to make some compromises when making a hire.
 
-##Look for a greeny
+## Look for a greeny
 Every job posting for a content marketer looks the same. Companies want someone with years of experience, but content marketing hasn’t been around that long.
 
 Why not look for someone green? I call them “greenys.” A greeny:
@@ -50,7 +50,7 @@ When I tell startups to hire a greeny, I don’t mean they should hire someone f
 
 Because greenys aren’t as expensive as someone who’s seasoned, you’ll be able to afford to send spend some time educating them (Send them to content marketing conferences, for example).
 
-##What about domain expertise?
+## What about domain expertise?
 It doesn’t matter (necessarily) if someone has written much about your industry before. As long as they’re willing to read voraciously, go out and talk to real people about their issues, and internalize experiences they have in their everyday lives, they’ll be able to create content about the subject if they’re any good.
 
 But this depends a lot on your industry. Some industries are more “teachable” than others. My boyfriend’s startup company sells mathematical programming software to developers, and I’ve had conversations with their CEO and marketing VIP about how to hire a writer. They could probably hire anyone and teach them about the product and the community, but this would be extremely time-consuming. In their case, it probably wouldn’t make sense to hire a greeny.
@@ -83,7 +83,7 @@ __Ted Karczewski, Content Marketing Manager at [Skyword](http://skyword.com) and
 
 Every company has different needs. You have to narrow down what you really want.
 
-##Ask for a sample
+## Ask for a sample
 Before hiring someone, you need to know they can handle anything that’s thrown at them. If you’re hiring a greeny, you want to make sure they can rise to any challenge.
 
 Candidates should write a sample post, but you can also ask them to include a promotional plan.
@@ -102,7 +102,7 @@ __Rob Wormley, Head of Content Marketing at [When I Work](http://wheniwork.com),
 
 >You'll figure out really quickly who has the knowledge/skills and who doesn't. Also, you get what you pay for. If you don't want to pay for a good content marketer, then don't be surprised when you don't get good results."
 
-##In the mean time
+## In the mean time
 
 Content marketing takes a long time to take hold, so doing *something* is better than doing nothing.
 
@@ -110,7 +110,7 @@ Some people feel they need an in-house content marketer to get started on their 
 
 A consultant can help you come up with interim plans, and execute on a strategy. They can come up with topics and write blog posts while you wait for the perfect catch to manage the process. If you end up hiring a greeny, an experienced consultant can help them learn.
 
-##Thanks for reading :)
+## Thanks for reading :)
 
 Hiring a content marketer is hard, and I hope this post will help you find a good fit.
 
