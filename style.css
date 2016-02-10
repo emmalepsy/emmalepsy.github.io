@@ -296,4 +296,7 @@ ul.iconlist li:before
   #samples { 
     display: none;
   }
+  #fieldEmail {
+   font-size: 18px;
+  }
 }
