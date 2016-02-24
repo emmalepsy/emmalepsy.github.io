@@ -59,7 +59,9 @@ Tools can’t solve all your organization problems, but they can certainly help.
 The tools aren't magic. In order for them to work, you need to invest time in setting them up, and figuring out the best way to use them.
 
 ## Refine the editorial process and manage expectations
-I include edits and revisions with all my fees, but sometimes I don’t know what my clients expect. It’s best if the clients provide deadlines, and set expectations. That way, writers can build time for edits and revisions into my schedule, so that you’ll be happy with results.
+I include edits and revisions with all my fees, but sometimes I don’t know what my clients expect. 
+
+It’s best if you provide deadlines, and set expectations, particularly around edits. That way, writers can build time for edits and revisions into their schedule, so that you’ll be happy with results.
 
 If you leave comments in a Google Doc suggesting changes, send an email or put a note in a project management tool that you’d like to see edits by a certain dates. Due dates help freelancers a lot, even if they’re relatively arbitrary on your end.
 
