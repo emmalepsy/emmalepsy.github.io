@@ -1,3 +1,14 @@
+---
+layout: post
+title: How to stay organized when working with freelance writers
+date: 2016-02-24
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: Being organized is going to make it much easier to work with freelancers. It'll save you time, energy, and headaches.
+---
 CRASH.
 
 My textbooks fall onto the floor. I’m the least organized kid in my third grade class, and once a week, my jam-packed desk gives up, takes a breath, and spits up my mess. Crumpled papers, chewed erasers, and reading comprehension books are strewn across the floor. 
