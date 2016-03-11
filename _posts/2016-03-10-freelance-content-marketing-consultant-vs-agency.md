@@ -1,3 +1,14 @@
+---
+layout: post
+title: Freelance content marketing consultants vs. marketing agencies: Which should you choose and why?
+date: 2016-03-10
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: Freelance content marketing consultants and marketing agencies can help you with many of the same tasks. In this article I share how they're different, and give suggestions on how to choose the right partner.
+---
 A few weeks ago, I helped a client with a marketing asset.
 
 They were getting started with content marketing and SEO, and they weren’t sure how to get results.
