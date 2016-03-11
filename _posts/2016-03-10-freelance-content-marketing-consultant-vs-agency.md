@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Freelance content marketing consultants vs. marketing agencies: Which should you choose and why?
-date: 2016-03-10
+title: Freelance content marketing consultants vs marketing agencies Which should you choose and why?
+date: 2016-03-11
 categories: []
 tags: []
 status: publish
