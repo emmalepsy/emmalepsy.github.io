@@ -9,9 +9,9 @@ type: post
 published: true
 excerpt: Freelance content marketing consultants and marketing agencies can help you with many of the same tasks. In this article I share how they're different, and give suggestions on how to choose the right partner.
 ---
-A few weeks ago, I helped a client with a marketing asset.
+A few weeks ago, a prospective client reached out to me.
 
-They were getting started with content marketing and SEO, and they weren’t sure how to get results.
+They were getting started building their online presence, and they weren’t sure how to get results.
 
 They needed help with PPC (along with complementary landing pages), posts on social media, a blog strategy, a ground up technical SEO strategy, and outreach to help build links on relevant sites.
 
