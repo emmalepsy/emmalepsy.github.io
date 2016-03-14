@@ -165,4 +165,6 @@ __PRICE:__ *Fitbit Flex -- $99 (my sister gave me hers so mine was free), and Cl
 * __Grasshopper__ - I used to work at Grasshopper. I find the call forwarding service really useful, and now there's text messaging. I'd like to get a local phone number from GH so I don't have to give clients my cell number.
 * __A dog__ - WOOF. I need a dog so I get out of the house, take a walk, and have a buddy to hang with all day. 
 
+![doggy]({{site.url}}/assets/dog.gif)
+
 ### What tools do you cool catz use?
