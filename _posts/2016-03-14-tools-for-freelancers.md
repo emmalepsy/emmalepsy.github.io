@@ -23,7 +23,7 @@ __ALL IMAGES IN THIS POST are from my actual dashboards. This is the real shit, 
 ## 1. Trello
 I know I said I was gonna show you the real shit, but I have to respect my clients and not share their real shit. So this is how my [Trello](http://trello.com) boards are organized-- without the sensitive client information:
 
-
+![TrelloforEmma]({{site.url}}/assets/trello.png)
 
 * __Today__ -- Everything I have to do, not necessarily today. This list can get long and scary. I add due dates* to each card, and organize from most urgent to least urgent. 
 * __Sent for Review__ -- Anything that I’ve sent to a client. If I send an eBook to a client and am waiting on their edits and feedback, the card goes into this column. 
@@ -49,6 +49,8 @@ __PRICE:__ *5$ per month for Gmail for Business*
  
 When I first started Stories by Emma, I wasn’t sure what accounting solution to use. My accountant told me I could choose whatever I wanted, but they recommended [FreshBooks](http://freshbooks.com) because of it’s simplicity. 
 
+![FreshBooks]({{site.url}}/assets/freshbooks.png)
+
 It has all the features I want, and it’s very easy to use and understand. I can send all necessary reports to my accountants, record all my expenses, send detailed invoices, and the mobile app is dope. YesBooks to FreshBooks.
 
 __PRICE:__ *$29.95 per month for unlimited contacts (the plan I use)*
@@ -61,6 +63,8 @@ The solution? A third party app called [Sunrise](https://itunes.apple.com/us/app
 I actually downloaded Sunrise a year ago and never used it. But because of recent frustrations, I gave it another try, and I’ve found __Sunrise to be the best calendar solution for me.__ 
 
 Sunrise has a desktop client for my MacBook, as well as an app for my phone, and it lets me sync my iCal and Google calendars in one place. I stopped using iCal all together, and if I’m out and need to add something via my iPhone, I add it directly into the Sunrise mobile app.
+
+![SunriseApp]({{site.url}}/assets/sunrise.png)
 
 Bonus. The display is really pretty and calming. 
 
@@ -75,8 +79,6 @@ When it came time to build a website for Stories by Emma, my boyfriend Chris sug
 
 When I first started using GitHub, I was annoyed by it. It’s made for software developers, not for writers, and it required me to get familiar with a less-than-intuitive process. Because we had to do everything manually, the site wasn’t automatically optimized for mobile, and Chris had to build a custom blog using Jekyll.
 
-
-
 BUT every time I want to change something on my site, Chris rushes in to help, and he’s been super patient teaching me how to use GitHub. Now that I’ve been using it for 6 or 7 months, I’m really glad we built the site this way-- it allows for customization that wasn’t possible with WordPress or Squarespace.
 
 __Price:__ *Free (plus a lot of Chris’s time)*
@@ -85,7 +87,11 @@ __Price:__ *Free (plus a lot of Chris’s time)*
 
 I specialize in content creation, not graphic design, but any good content marketer should be able to create images. Images are important for social sharing, email marketing, and generally making articles look friendly.
 
-[Canva](http://canva.com) is my favorite tool. I love the icons because I can customize colors so they match with the Stories by Emma brand, or a client's branding. [Pablo by Buffer](https://buffer.com/pablo) is handy for creating blog title images (example [here](https://referralrock.com/blog/wp-content/uploads/2016/03/pablo-4.png)), and [Unsplash](http://unsplash.com) is a great (and free) resource for finding stock photos that aren't totally hideous. 
+[Canva](http://canva.com) is my favorite tool. I love the icons because I can customize colors so they match with the Stories by Emma brand, or a client's branding. Here's an image I made with Canva:
+
+![Canva]({{site.url}}/assets/organized.jpg)
+
+[Pablo by Buffer](https://buffer.com/pablo) is handy for creating blog title images (example [here](https://referralrock.com/blog/wp-content/uploads/2016/03/pablo-4.png)), and [Unsplash](http://unsplash.com) is a great (and free) resource for finding stock photos that aren't totally hideous. 
 
 __PRICE:__ *Free, free, and free*
 
@@ -94,6 +100,8 @@ __PRICE:__ *Free, free, and free*
 When I worked in-house as a content marketer, my team used MailChimp for email marketing. MailChimp is great, but [Campaign Monitor](http://campaignmonitor.com) is better (full disclosure: they're a client, but they've never asked me to promote them, and I'm doing so 100% on my own accord).
 
 I started using Campaign Monitor to collect email subscribers for readers of this blog (sign up for my email list here), and to send holiday emails to clients and friends. The interface is intuitive and less buggy than MailChimp's. It's easy and quick to create a beautiful email.
+
+![CM]({{site.url}}/assets/campaignmonitor.png)
 
 Campaign Monitor is an excellent option for a pro-marketing tool. Love it.
 
@@ -112,8 +120,9 @@ __PRICE:__ *Free*
 ## 11. Ugly white legal pads
 
 I use a computer for a lot of my work, but often I use real paper to jot down to-do lists and take notes when I’m on a client call.
-I
 I’ve tried fancy notebooks, but nothing beats an ugly white legal pad. The only issue is that Chris occasionally steals them out of my office to do math on them.
+
+![LegalPad]({{site.url}}/assets/whitelegalpad.jpeg)
 
 Legal pads are great-- not sure why we’re not all using them. They’re also extremely inexpensive...like scarily cheap. I
 
@@ -124,6 +133,7 @@ __PRICE:__ *$2.44 for pack of 3 (Target), $10.99 for pack of 12 (Amazon)*
 
 I HATE sending clients word docs and PDFs for contracts, so I use [RightSignature](http://rightsignature.com) to make things easy. It's inexpensive, easy to use, and I don't think I need to say anything else? Do I?
 
+![RS]({{site.url}}/assets/rightsignature.png)
 
 __PRICE:__ *$11 per month for unlimited signatures*
 
@@ -133,7 +143,8 @@ When I first moved to San Diego, I saw a movie at the theater at the Fashion Val
 
 Clients expect that I spend my hard earned money on rent and groceries, but I'm more likely to head down to the local mall and drop some dollars at Sephora or Nordstrom. 
 
-Source: Fashion Valley Mall
+![FashionValley]({{site.url}}/assets/fashionvalley.jpg)
+Image Source: Fashion Valley Mall
 
 __PRICE:__ *~$100+ per visit*
 
@@ -141,6 +152,7 @@ __PRICE:__ *~$100+ per visit*
 
 I don't move very much during the day. My job requires me to go from my bed, to my desk, to the kitchen. I use [FitBit](http://fitbit.com) and [ClassPass](http://classpass.com) to keep me moving, and both are awesome tools that I recommend to freelancers everywhere. If you have a FitBit, come join one of my WorkWeek challenges (I'm trying, but I've still never won one).
 
+![Fitbit]({{site.url}}/assets/fitbit.png)
 
 __PRICE:__ *Fitbit Flex -- $99 (my sister gave me hers so mine was free), and ClassPass San Diego -- 99$ per month (plus all the workout clothes I buy at T.J. Maxx)*
 
@@ -152,7 +164,5 @@ __PRICE:__ *Fitbit Flex -- $99 (my sister gave me hers so mine was free), and Cl
 * __Proposify__ - For sending proposals so I look super professional. Anyone have experience with this one?
 * __Grasshopper__ - I used to work at Grasshopper. I find the call forwarding service really useful, and now there's text messaging. I'd like to get a local phone number from GH so I don't have to give clients my cell number.
 * __A dog__ - WOOF. I need a dog so I get out of the house, take a walk, and have a buddy to hang with all day. 
-
-http://giphy.com/gifs/dog-tongue-marnie-the-cTAXJCW6LniA8 
 
 ### What tools do you cool catz use?
