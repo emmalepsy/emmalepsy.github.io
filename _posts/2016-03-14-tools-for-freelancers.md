@@ -9,6 +9,7 @@ type: post
 published: true
 excerpt: These 15 tools help me stay organized to do my job well. What do you use?
 ---
+![tools]({{site.url}}/assets/tools.jpg)
 
 If left to my own devices, I’ll sit in bed laughing at videos of Pomeranians until I get bedsores. But software tools and productivity processes get me out of bed and into my office chair. Yea boi.
 
