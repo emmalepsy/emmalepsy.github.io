@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 Tools I swear by as a freelance writing consultant
+title: 15 tools I swear by as a freelance writing consultant
 date: 2016-03-14
 categories: []
 tags: []
@@ -10,9 +10,9 @@ published: true
 excerpt: These 15 tools help me stay organized to do my job well. What do you use?
 ---
 
-If left to my own devices, I’ll sit in bed laughing at videos of Pomeranians until I get bed sores. But software tools and productivity processes get me out of bed and into my office chair. Yea boi.
+If left to my own devices, I’ll sit in bed laughing at videos of Pomeranians until I get bedsores. But software tools and productivity processes get me out of bed and into my office chair. Yea boi.
 
-I’ve compiled 15 tools I swear by as a freelance writing consultant. These tools are so helpful and awesome that Snoop Dogg is probably using them. 
+I’ve compiled 15 tools I swear by as a freelance writing consultant. These tools are so helpful and awesome that Snoop Dogg is probably using them to keep track of his weed supply. 
 
 Hopefully, there’s a tool or two on this list you haven’t considered before. Maybe my processes can help YOUR processes. But maybe your shit is way better than mine already ;-) 
 
@@ -144,7 +144,7 @@ When I first moved to San Diego, I saw a movie at the theater at the Fashion Val
 Clients expect that I spend my hard earned money on rent and groceries, but I'm more likely to head down to the local mall and drop some dollars at Sephora or Nordstrom. 
 
 ![FashionValley]({{site.url}}/assets/fashionvalley.jpg)
-Image Source: Fashion Valley Mall
+Image Source: [Fashion Valley Mall](http://www.simon.com/mall/fashion-valley)
 
 __PRICE:__ *~$100+ per visit*
 
