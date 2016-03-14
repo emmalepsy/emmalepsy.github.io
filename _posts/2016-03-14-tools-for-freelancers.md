@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 Tools I swear by as a freelance writing consultant
-date: 2016-03-14 11:35:03.000000000 -04:00
+date: 2016-03-14
 categories: []
 tags: []
 status: publish
