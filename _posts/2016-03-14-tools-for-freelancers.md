@@ -99,7 +99,7 @@ __PRICE:__ *Free, free, and free*
 
 When I worked in-house as a content marketer, my team used MailChimp for email marketing. MailChimp is great, but [Campaign Monitor](http://campaignmonitor.com) is better (full disclosure: they're a client, but they've never asked me to promote them, and I'm doing so 100% on my own accord).
 
-I started using Campaign Monitor to collect email subscribers for readers of this blog (sign up for my email list here), and to send holiday emails to clients and friends. The interface is intuitive and less buggy than MailChimp's. It's easy and quick to create a beautiful email.
+I started using Campaign Monitor to collect email subscribers for readers of this blog (sign up for my [email list here](https://confirmsubscription.com/h/t/D426D4E217A06AA6)), and to send holiday emails to clients and friends. The interface is intuitive and less buggy than MailChimp's. It's easy and quick to create a beautiful email.
 
 ![CM]({{site.url}}/assets/campaignmonitor.png)
 
