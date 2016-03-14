@@ -77,7 +77,7 @@ I’ve used WordPress and Squarespace before. Both platforms are great, but they
 
 When it came time to build a website for Stories by Emma, my boyfriend Chris suggested we do it in [GitHub](http://github.com), where we could easily customize and control it. Plus, the hosting is free.
 
-When I first started using GitHub, I was annoyed by it. It’s made for software developers, not for writers, and it required me to get familiar with a less-than-intuitive process. Because we had to do everything manually, the site wasn’t automatically optimized for mobile, and Chris had to build a custom blog using Jekyll.
+When I first started using GitHub, I was annoyed by it. It’s made for software developers, not for writers, and it required me to get familiar with a less-than-intuitive process. Because we had to do everything manually, the site wasn’t automatically optimized for mobile, and Chris had to build a custom blog using [Jekyll](http://jekyllrb.com).
 
 BUT every time I want to change something on my site, Chris rushes in to help, and he’s been super patient teaching me how to use GitHub. Now that I’ve been using it for 6 or 7 months, I’m really glad we built the site this way-- it allows for customization that wasn’t possible with WordPress or Squarespace.
 
@@ -127,7 +127,7 @@ I’ve tried fancy notebooks, but nothing beats an ugly white legal pad. The onl
 Legal pads are great-- not sure why we’re not all using them. They’re also extremely inexpensive...like scarily cheap. I
 
 
-__PRICE:__ *$2.44 for pack of 3 (Target), $10.99 for pack of 12 (Amazon)* 
+__PRICE:__ *$2.44 for pack of 3 ([Target](http://www.target.com/p/tops-8-1-2-x-11-3-4-the-legal-pad-legal-rule-perforated-pads-canary-50-sht-pads-3-per-pack/-/A-13566436)), $10.99 for pack of 12 ([Amazon](http://www.amazon.com/gp/product/B000PU1LIU/ref=s9_top_hd_bw_bXDC8Z_g229_i1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=0GZ6J5C0YC2F9PCX2FYN&pf_rd_t=101&pf_rd_p=8974d834-ea35-50a0-9363-15ecc8ae9a9f&pf_rd_i=490764011))* 
 
 ## 12. RightSignature
 
@@ -158,13 +158,14 @@ __PRICE:__ *Fitbit Flex -- $99 (my sister gave me hers so mine was free), and Cl
 
 ## Some tools I’m looking into
 
-* __ZOOM__ - Google Hangouts is ok, but it isn’t stellar. Kinda buggy. I recently tried ZOOM and thought it was amazing. Maybe start using it for client meetings? 
-* __UberConference__ - For phone call recordings. I often interview my client’s customers, or the clients themselves, and want a good system for referring back to calls at a later date.
-* __17hats__ - So I don’t have a list of 15 tools, and I only use one. But could it be that good…? 
-* __Proposify__ - For sending proposals so I look super professional. Anyone have experience with this one?
-* __Grasshopper__ - I used to work at Grasshopper. I find the call forwarding service really useful, and now there's text messaging. I'd like to get a local phone number from GH so I don't have to give clients my cell number.
+* [__ZOOM__](https://zoom.us) - Google Hangouts is ok, but it isn’t stellar. Kinda buggy. I recently tried ZOOM and thought it was amazing. Maybe start using it for client meetings? 
+* __[UberConference](https://www.uberconference.com/features/record_conference_calls)__ - For phone call recordings. I often interview my client’s customers, or the clients themselves, and want a good system for referring back to calls at a later date.
+* __[17hats](http://17hats.com)__ - So I don’t have a list of 15 tools, and I only use one. But could it be that good…? 
+* __[Proposify](http://proposify.biz)__ - For sending proposals so I look super professional. Anyone have experience with this one?
+* __[Grasshopper](http://grasshopper.com)__ - I used to work at Grasshopper. I find the call forwarding service really useful, and now there's text messaging. I'd like to get a local phone number from GH so I don't have to give clients my cell number.
 * __A dog__ - WOOF. I need a dog so I get out of the house, take a walk, and have a buddy to hang with all day. 
 
 ![doggy]({{site.url}}/assets/dog.gif)
 
 ### What tools do you cool catz use?
+My way probably isn't the best way. Tell me what you recommend by emailing me at [emma@storiesbyemma.co](mailto: emma@storiesbyemma.co) or Tweeting me at [EmmaFayeS](http://twitter.com/emmafayes). 
