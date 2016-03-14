@@ -36,7 +36,7 @@ I know I said I was gonna show you the real shit, but I have to respect my clien
 __PRICE:__ *Free*
 
 ## 2. Google Drive
-Oh Google! I love you. Docs, Folders, Sheets, Gmail for Business, Google HangOuts -- these are all my jam. Do I really need to sing the praises of Google Drive? Didn't think so.
+Oh Google! I love you. Docs, Folders, Sheets, Gmail for Business, Google Hang0uts -- these are all my jam. Do I really need to sing the praises of Google Drive? Didn't think so.
 
 Fave features:
 
