@@ -20,7 +20,7 @@ What tools do you use to keep yourself sane? How do you keep it cool when it’s
 
 __ALL IMAGES IN THIS POST are from my actual dashboards. This is the real shit, yo.__
  
-# 1. Trello
+## 1. Trello
 I know I said I was gonna show you the real shit, but I have to respect my clients and not share their real shit. So this is how my [Trello](http://trello.com) boards are organized-- without the sensitive client information:
 
 
@@ -34,7 +34,7 @@ I know I said I was gonna show you the real shit, but I have to respect my clien
 
 __PRICE:__ *Free*
 
-# 2. Google Drive
+## 2. Google Drive
 Oh Google! I love you. Docs, Folders, Sheets, Gmail for Business, Google HangOuts -- these are all my jam. Do I really need to sing the praises of Google Drive? Didn't think so.
 
 Fave features:
@@ -45,7 +45,7 @@ Fave features:
 
 __PRICE:__ *5$ per month for Gmail for Business*
 
-# 3. FreshBooks
+## 3. FreshBooks
  
 When I first started Stories by Emma, I wasn’t sure what accounting solution to use. My accountant told me I could choose whatever I wanted, but they recommended [FreshBooks](http://freshbooks.com) because of it’s simplicity. 
 
@@ -53,7 +53,7 @@ It has all the features I want, and it’s very easy to use and understand. I ca
 
 __PRICE:__ *$29.95 per month for unlimited contacts (the plan I use)*
 
-# 4. Sunrise Calendar
+## 4. Sunrise Calendar
 I have a business calendar and a personal calendar (both in Gmail) and an iPhone and MacBook Pro (which default to iCal). I kept adding stuff to one calendar, and it didn’t sync with all the others. I lost track of appointments, and then I tried to sync all of my calendars which resulted in duplicates. It was a mess, but I was kinda living with it because I didn’t know how to solve the problem.
 
 The solution? A third party app called [Sunrise](https://itunes.apple.com/us/app/sunrise-calendar-outlook-app/id599114150?mt=8).
@@ -68,7 +68,7 @@ Bonus. The display is really pretty and calming.
 
 __PRICE:__ *Free*
 
-# 5. GitHub 
+## 5. GitHub 
 I’ve used WordPress and Squarespace before. Both platforms are great, but they’re very limited by the existing templates. I am super picky, and I want things “just so” on my website. 
 
 When it came time to build a website for Stories by Emma, my boyfriend Chris suggested we do it in [GitHub](http://github.com), where we could easily customize and control it. Plus, the hosting is free.
@@ -81,7 +81,7 @@ BUT every time I want to change something on my site, Chris rushes in to help, a
 
 __Price:__ *Free (plus a lot of Chris’s time)*
 
-# 6. Canva, (7.) Pablo by Buffer and (8.) Unsplash
+## 6. Canva, (7.) Pablo by Buffer and (8.) Unsplash
 
 I specialize in content creation, not graphic design, but any good content marketer should be able to create images. Images are important for social sharing, email marketing, and generally making articles look friendly.
 
@@ -89,7 +89,7 @@ I specialize in content creation, not graphic design, but any good content marke
 
 __PRICE:__ *Free, free, and free*
 
-# 9. Campaign Monitor 
+## 9. Campaign Monitor 
 
 When I worked in-house as a content marketer, my team used MailChimp for email marketing. MailChimp is great, but [Campaign Monitor](http://campaignmonitor.com) is better (full disclosure: they're a client, but they've never asked me to promote them, and I'm doing so 100% on my own accord).
 
@@ -101,7 +101,7 @@ Campaign Monitor is an excellent option for a pro-marketing tool. Love it.
 __PRICE:__ *$9 per month for Basic (Send 2500 emails to 500 people)*
 
 
-# 10. Streak 
+## 10. Streak 
 
 I was missing out on great clients because I'd lose track of emails in my inbox, so I was on the hunt for a customer relationship management (CRM) that could help me stay organized. Some fellow freelancers recommended [Streak](https://www.streak.com/), a CRM for Gmail, at a meetup, and I installed it and am reaping the results.
 
@@ -109,7 +109,7 @@ I'm still trying to figure out the best way to leverage Streak, but it's already
 
 __PRICE:__ *Free* 
 
-# 11. Ugly white legal pads
+## 11. Ugly white legal pads
 
 I use a computer for a lot of my work, but often I use real paper to jot down to-do lists and take notes when I’m on a client call.
 I
@@ -120,14 +120,14 @@ Legal pads are great-- not sure why we’re not all using them. They’re also e
 
 __PRICE:__ *$2.44 for pack of 3 (Target), $10.99 for pack of 12 (Amazon)* 
 
-# 12. RightSignature
+## 12. RightSignature
 
 I HATE sending clients word docs and PDFs for contracts, so I use [RightSignature](http://rightsignature.com) to make things easy. It's inexpensive, easy to use, and I don't think I need to say anything else? Do I?
 
 
 __PRICE:__ *$11 per month for unlimited signatures*
 
-# 13. Fashion Valley Mall
+## 13. Fashion Valley Mall
 
 When I first moved to San Diego, I saw a movie at the theater at the Fashion Valley Mall. It's the most wonderful place on Earth, complete with every store you could dream of, fountains, and palm trees. It's my own slice of Vegas here in Southern California.
 
@@ -137,7 +137,7 @@ Source: Fashion Valley Mall
 
 __PRICE:__ *~$100+ per visit*
 
-# 14. My FitBit and (15.) ClassPass
+## 14. My FitBit and (15.) ClassPass
 
 I don't move very much during the day. My job requires me to go from my bed, to my desk, to the kitchen. I use [FitBit](http://fitbit.com) and [ClassPass](http://classpass.com) to keep me moving, and both are awesome tools that I recommend to freelancers everywhere. If you have a FitBit, come join one of my WorkWeek challenges (I'm trying, but I've still never won one).
 
@@ -155,4 +155,4 @@ __PRICE:__ *Fitbit Flex -- $99 (my sister gave me hers so mine was free), and Cl
 
 http://giphy.com/gifs/dog-tongue-marnie-the-cTAXJCW6LniA8 
 
-# What tools do you cool catz use?
+### What tools do you cool catz use?
