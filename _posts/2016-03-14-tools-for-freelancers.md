@@ -100,10 +100,10 @@ __PRICE:__ *Free*
 # 11. Ugly white legal pads
 
 I use a computer for a lot of my work, but often I use real paper to jot down to-do lists and take notes when I’m on a client call.
-
+I
 I’ve tried fancy notebooks, but nothing beats an ugly white legal pad. The only issue is that Chris occasionally steals them out of my office to do math on them.
 
-Legal pads are great-- not sure why we’re not all using them. They’re also extremely inexpensive...like scarily cheap. 
+Legal pads are great-- not sure why we’re not all using them. They’re also extremely inexpensive...like scarily cheap. I
 
 
 __PRICE:__ *$2.44 for pack of 3 (Target), $10.99 for pack of 12 (Amazon)* 
