@@ -140,9 +140,9 @@ __PRICE:__ *$11 per month for unlimited signatures*
 
 ## 13. Fashion Valley Mall
 
-When I first moved to San Diego, I saw a movie at the theater at the Fashion Valley Mall. It's the most wonderful place on Earth, complete with every store you could dream of, fountains, and palm trees. It's my own slice of Vegas here in Southern California.
+When I first moved to San Diego, I saw a movie at the theater at the Fashion Valley Mall. The mall is the most wonderful place on Earth, and I was so awestruck on that first meeting that I did not want to go inside the theater. Fashion Valley has all my favorite stores (except for T.J. Maxx), bubbling fountains, and palm trees. It's my own slice of Vegas here in Southern California.
 
-Clients expect that I spend my hard earned money on rent and groceries, but I'm more likely to head down to the local mall and drop some dollars at Sephora or Nordstrom. 
+People might think I spend my hard earned money on rent and groceries, but I'm more likely to head down to the local mall and drop some dollars at Sephora or Nordstrom. 
 
 ![FashionValley]({{site.url}}/assets/fashionvalley.jpg)
 Image Source: [Fashion Valley Mall](http://www.simon.com/mall/fashion-valley)
