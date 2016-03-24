@@ -76,7 +76,7 @@ __PRICE:__ *Free*
 ## 5. GitHub 
 I’ve used WordPress and Squarespace before. Both platforms are great, but they’re very limited by the existing templates. I am super picky, and I want things “just so” on my website. 
 
-When it came time to build a website for Stories by Emma, my boyfriend Chris suggested we do it in [GitHub](http://github.com), where we could easily customize and control it. Plus, the hosting is free.
+When it came time to build a website for Stories by Emma, my boyfriend [Chris Maes](http://chrisma.es) suggested we do it in [GitHub](http://github.com), where we could easily customize and control it. Plus, the hosting is free.
 
 When I first started using GitHub, I was annoyed by it. It’s made for software developers, not for writers, and it required me to get familiar with a less-than-intuitive process. Because we had to do everything manually, the site wasn’t automatically optimized for mobile, and Chris had to build a custom blog using [Jekyll](http://jekyllrb.com).
 
