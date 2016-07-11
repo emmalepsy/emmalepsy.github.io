@@ -28,8 +28,8 @@ Fiction writers--you know, the ones who smoke pipes and teach at university MFA 
 
 They tell you that you should be able to describe a pond without relying on adjectives.
 
-- You should use VERBS. Instead of writing about the crystal pond, say that the pond shimmers.
-- You should use NOUNS. Instead of writing about the smelly pond, say that the pond is a fish's toilet.
+- You should use __VERBS__. Instead of writing about the crystal pond, say that the pond shimmers.
+- You should use __NOUNS__. Instead of writing about the smelly pond, say that the pond is a fish's toilet.
 
 Look at the following two statements, and you'll see how much clearer the writing is without adjectives:
 
