@@ -1,3 +1,18 @@
+---
+layout: post
+title: Adjectives, u sneaky bastards!
+date: 2016-07-11
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: In my first whackadoodle, I explain why you can write better if you use less adjectives. 
+---
+People started subscribing to my email newsletter, so I figured it was time to share something.
+
+So, I've begun writing whackadoodles and sending them to my peeps. A few days later, I'm posting them here.
+
 A whackadoodle is a tip/insight/revelation about writing, which you, as a content marketer, should care about. Yes, I made it up. Don’t you just love the sound? Whack-a-doodle. Whack, whack, DOODLE.
 
 ### "Wait, Emma! Why are you qualified to give writing tips?"
