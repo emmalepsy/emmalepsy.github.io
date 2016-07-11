@@ -33,9 +33,9 @@ They tell you that you should be able to describe a pond without relying on adje
 
 Look at the following two statements, and you'll see how much clearer the writing is without adjectives:
 
-WITH ADJECTIVES: The user-friendly, cloud-based software helped me communicate with my serious accountant, who loves me despite my incessant questions.
+__WITH ADJECTIVES:__ The user-friendly, cloud-based software helped me communicate with my serious accountant, who loves me despite my incessant questions.
 
-WITHOUT ADJECTIVES: The software helped me communicate with my accountant, who loves me despite my questions.
+__WITHOUT ADJECTIVES:__ The software helped me communicate with my accountant, who loves me despite my questions.
 
 See what I mean?
 
