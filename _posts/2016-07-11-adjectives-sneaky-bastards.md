@@ -11,7 +11,9 @@ excerpt: In my first whackadoodle, I explain why you can write better if you use
 ---
 People started subscribing to my email newsletter, so I figured it was time to share something.
 
-So, I've begun writing whackadoodles and sending them to my peeps. A few days later, I'm posting them here.
+But there's a lot of stuff out there. There's a lot of content about content. I'm tired of it, and wanted to bring something fresh to the table.
+
+I've begun writing whackadoodles and sending them to my peeps. About a week after I write my whackadoodles, I'll post them here.
 
 A whackadoodle is a tip/insight/revelation about writing, which you, as a content marketer, should care about. Yes, I made it up. Don’t you just love the sound? Whack-a-doodle. Whack, whack, DOODLE.
 
