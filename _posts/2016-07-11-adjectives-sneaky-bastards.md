@@ -24,7 +24,7 @@ A whackadoodle is a tip/insight/revelation about writing, which you, as a conten
 - Someone told me recently that THE WORLD NEEDED MY VOICE.
 
 ## Whackadoodle #1: Oh, adjectives! U sneaky bastards!
-Fiction writers--you know, the ones who smoke pipes and teach at university MFA programs--are always on about adjectives.
+Fiction writers-- you know, the ones who smoke pipes and teach at university MFA programs-- are always on about adjectives.
 
 They tell you that you should be able to describe a pond without relying on adjectives.
 
