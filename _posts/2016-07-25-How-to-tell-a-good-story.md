@@ -1,3 +1,14 @@
+---
+layout: post
+title: How to tell a DAMN good story
+date: 2016-07-25
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: In my second whackadoodle, I share how you can tell better stories, in writing and out loud.
+---
 You thought your cousin's birthday party would be boring. 
 
 You thought the best part would be the hot dog.
