@@ -1,3 +1,15 @@
+---
+layout: post
+title: Your professional choices as a writer
+date: 2016-09-08
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: In my third whackadoodle, I share all the things you have to remember when you have a career as a writer.
+——
+
 I just moved.
  
 I thought it would be great.
