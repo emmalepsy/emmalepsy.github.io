@@ -1,3 +1,15 @@
+---
+layout: post
+title: How to play with the big people when you feel like a lil person
+date: 2016-09-14
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: In my sixth whackadoodle, I share how you can stand up to the big guys even when you want to impress them.
+---
+
 __Isn't it so exciting when someone cool pays attention to you?__
 
 When you were in middle school, and your crush laughed at your joke, you felt like the sky was raining gummi bears.
