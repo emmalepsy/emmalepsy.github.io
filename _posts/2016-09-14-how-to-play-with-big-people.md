@@ -22,15 +22,15 @@ But can you keep your cool when the cool person approaches you? Are your values 
 
 In today's Whackadoodle, I'm sharing how to stand up to the big people when you feel like a lil person. 
 
-### Whackadoodle #6: How to stand up to the big people when you feel like a lil person
+## Whackadoodle #6: How to stand up to the big people when you feel like a lil person
 
 Whether you're a freelance writer, a manager, or an individual contributor, work can feel like a slog.
 
-If your commute has a ton of traffic, too bad.
+If your commute has a ton of traffic, __too bad.__
 
-If your company gets bought out, goes out of business, or your favorite direct report leaves for a competitor, tough stuff.
+If your company gets bought out, goes out of business, or your favorite direct report leaves for a competitor, __tough stuff.__
 
-It can feel like no one gives a shit about the hard work you do. 
+__It can feel like no one gives a shit about the hard work you do.__ 
 
 So when a cool company pays attention to you, it can feel magical. AHHHH. Things are looking up.
 
@@ -48,15 +48,13 @@ I was tempted! C'mon. Their logo would've looked so good.
 
 But I had to stick with the way I run my business. I told them I didn't do free samples, but that I'd be happy to share some insights on how I'd approach the topics.
 
-I never heard back.
+__I never heard back.__
 
 Yeah, it was kind of disappointing, but ultimately I stood by the things I believe about business. That can be hard to do when you want to secure the next client, the next customer, or the next job. That can be hard when the company or person is "cooler" than you. 
 
-The key to playing with the big people is to act like a big person yourself. Act like you have the authority to say no. Be firm. Stick by your guns.
+__The key to playing with the big people is to act like a big person yourself. Act like you have the authority to say no. Be firm. Stick by your guns.__
 
-In the end, you won't have any regrets. I promise. 
-
-I assure you, you're a big person yourself.
+In the end, you won't have any regrets. I promise. I assure you, you're a big person yourself.
  
 Happy writing & editing. Until next whackadoodle.
 
