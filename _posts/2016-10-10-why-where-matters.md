@@ -1,3 +1,15 @@
+---
+layout: post
+title: Why WHERE matters when you write
+date: 2016-10-10
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+excerpt: In my seventh whackadoodle, I share why where you work from matters.
+---
+
 __Isn't it so great that you can work from anywhere?__
 
 You love working remotely. You have a lot more flexibility. You can roll out of bed and into your work space.
