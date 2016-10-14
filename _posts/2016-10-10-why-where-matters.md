@@ -9,6 +9,7 @@ type: post
 published: true
 excerpt: In my seventh whackadoodle, I share why where you work from matters.
 ---
+![Whywherematters]({{site.url}}/assets/wherematters.jpg)
 
 __Isn't it so great that you can work from anywhere?__
 
